@@ -1,9 +1,9 @@
 # Hosts Start 
-142.251.214.142                translate.google.com
-2607:f8b0:4005:80d::200e       translate.google.com
-142.251.32.42                  translate.googleapis.com
-2607:f8b0:4005:811::200a       translate.googleapis.com
+142.251.33.46                  translate.google.com
+2607:f8b0:4000:806::200e       translate.google.com
+142.250.115.95                 translate.googleapis.com
+2607:f8b0:4000:81c::200a       translate.googleapis.com
 
-# Last update at 2022-10-17 18:00:15 (Beijing Time)
+# Last update at 2022-10-17 18:19:49 (Beijing Time)
 # Hosts End 
 
