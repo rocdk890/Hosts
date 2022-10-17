@@ -12,7 +12,7 @@ on:
         default: 'false'
   push:
     branches:    
-      - main
+      - master
   schedule:
     - cron: '0 */4 * * *'
 
@@ -30,6 +30,7 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -37,6 +38,7 @@ jobs:
         
     - name: update hosts
       run: cd workingDir/ && bash runAllShellScript.sh
+
     - name: commit
       id: commit
       run: |
@@ -45,9 +47,11 @@ jobs:
         git add .
         git commit -m "update hosts"
       continue-on-error: true
+
     - name: Check on failures
       if: steps.commit.outputs.status == 'failure'
       run: exit 1
+
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
