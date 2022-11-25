@@ -1,9 +1,17 @@
 # Hosts Start 
-142.250.189.206                translate.google.com
-2607:f8b0:4005:812::200e       translate.google.com
-142.250.191.42                 translate.googleapis.com
-2607:f8b0:4005:80f::200a       translate.googleapis.com
+172.253.119.138                translate.google.com
+172.253.119.102                translate.google.com
+172.253.119.113                translate.google.com
+172.253.119.100                translate.google.com
+172.253.119.139                translate.google.com
+172.253.119.101                translate.google.com
+2607:f8b0:4001:c16::71         translate.google.com
+2607:f8b0:4001:c16::66         translate.google.com
+2607:f8b0:4001:c16::8a         translate.google.com
+2607:f8b0:4001:c16::65         translate.google.com
+209.85.147.95                  translate.googleapis.com
+2607:f8b0:4001:c0b::5f         translate.googleapis.com
 
-# Last update at 2022-11-25 09:21:03 (Beijing Time)
+# Last update at 2022-11-25 12:20:18 (Beijing Time)
 # Hosts End 
 
