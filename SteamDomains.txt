@@ -1,44 +1,44 @@
 # Hosts Start 
 103.224.182.253                kamaihd.net
-104.112.164.249                steamgames.com
-104.112.164.249                steampowered.com
-104.112.174.139                steamcommunity.com
-23.218.224.150                 cdn.steampowered.com
-23.218.224.145                 cdn.steampowered.com
-104.112.174.139                api.steampowered.com
-23.218.224.150                 cdn.steampowered.com
-23.218.224.145                 cdn.steampowered.com
-104.112.174.139                help.steampowered.com
+23.52.125.146                  steamgames.com
+23.52.125.146                  steampowered.com
+104.103.202.103                steamcommunity.com
+23.222.5.79                    cdn.steampowered.com
+23.222.5.72                    cdn.steampowered.com
+104.103.202.103                api.steampowered.com
+23.222.5.79                    cdn.steampowered.com
+23.222.5.72                    cdn.steampowered.com
+104.103.202.103                help.steampowered.com
+198.185.159.145                steampoweredmedia.com
+198.185.159.144                steampoweredmedia.com
 198.49.23.145                  steampoweredmedia.com
 198.49.23.144                  steampoweredmedia.com
-198.185.159.144                steampoweredmedia.com
-198.185.159.145                steampoweredmedia.com
-23.201.195.196                 cdn.steamcommunity.com
-23.201.195.206                 cdn.steamcommunity.com
-23.220.162.151                 media.steampowered.com
-23.220.162.132                 media.steampowered.com
-23.55.125.71                   store.steampowered.com
-23.201.195.204                 cdn.akamai.steamstatic.com
-23.201.195.218                 cdn.akamai.steamstatic.com
-23.201.195.218                 cdn.store.steampowered.com
-23.201.195.200                 cdn.store.steampowered.com
-113.240.98.41                  store.st.dl.bscstorage.net
-113.240.98.40                  store.st.dl.bscstorage.net
-140.249.147.251                store.st.dl.bscstorage.net
-120.226.43.253                 store.st.dl.bscstorage.net
+23.40.62.48                    cdn.steamcommunity.com
+23.40.62.19                    cdn.steamcommunity.com
+23.40.62.65                    media.steampowered.com
+23.40.62.26                    media.steampowered.com
+23.56.8.80                     store.steampowered.com
+23.222.12.41                   cdn.akamai.steamstatic.com
+23.222.12.51                   cdn.akamai.steamstatic.com
+23.222.12.18                   cdn.store.steampowered.com
+23.222.12.43                   cdn.store.steampowered.com
 119.39.154.253                 store.st.dl.bscstorage.net
 182.242.61.233                 store.st.dl.bscstorage.net
+113.240.98.40                  store.st.dl.bscstorage.net
+120.226.43.253                 store.st.dl.bscstorage.net
+113.240.98.41                  store.st.dl.bscstorage.net
+140.249.147.251                store.st.dl.bscstorage.net
 140.249.147.250                store.st.dl.bscstorage.net
-104.112.164.249                storefront.steampowered.com
+23.52.125.146                  storefront.steampowered.com
 # No resolution for store.st.dl.pinyuncloud.com store.st.dl.pinyuncloud.com
 # No resolution for media.st.dl.pinyuncloud.com media.st.dl.pinyuncloud.com
-23.220.163.203                 store.akamai.steamstatic.com
-23.220.163.205                 store.akamai.steamstatic.com
-23.220.163.208                 steamcommunity-a.akamaihd.net
-23.220.163.207                 steamcommunity-a.akamaihd.net
-23.47.48.216                   community.akamai.steamstatic.com
-23.47.48.203                   community.akamai.steamstatic.com
+23.205.104.59                  store.akamai.steamstatic.com
+23.205.104.21                  store.akamai.steamstatic.com
+23.40.62.19                    steamcommunity-a.akamaihd.net
+23.40.62.48                    steamcommunity-a.akamaihd.net
+23.222.12.35                   community.akamai.steamstatic.com
+23.222.12.16                   community.akamai.steamstatic.com
 
-# Last update at 2023-07-27 00:17:31 (Beijing Time)
+# Last update at 2023-07-27 04:13:21 (Beijing Time)
 # Hosts End 
 
