@@ -1,43 +1,45 @@
 # Hosts Start 
 103.224.182.253                kamaihd.net
-23.59.107.226                  steamgames.com
-23.59.107.226                  steampowered.com
-23.64.7.151                    steamcommunity.com
-23.204.152.169                 cdn.steampowered.com
-23.204.152.166                 cdn.steampowered.com
-23.64.7.151                    api.steampowered.com
-23.204.152.169                 cdn.steampowered.com
-23.204.152.166                 cdn.steampowered.com
-23.64.7.151                    help.steampowered.com
-198.185.159.145                steampoweredmedia.com
+23.57.135.97                   steamgames.com
+23.57.135.97                   steampowered.com
+23.57.149.234                  steamcommunity.com
+23.222.5.79                    cdn.steampowered.com
+23.222.5.72                    cdn.steampowered.com
+23.57.149.234                  api.steampowered.com
+23.222.5.72                    cdn.steampowered.com
+23.222.5.79                    cdn.steampowered.com
+23.57.149.234                  help.steampowered.com
 198.49.23.145                  steampoweredmedia.com
 198.185.159.144                steampoweredmedia.com
+198.185.159.145                steampoweredmedia.com
 198.49.23.144                  steampoweredmedia.com
-23.12.146.130                  cdn.steamcommunity.com
-23.12.146.143                  cdn.steamcommunity.com
-23.12.146.141                  media.steampowered.com
-23.12.146.158                  media.steampowered.com
-23.196.61.101                  store.steampowered.com
-23.12.146.158                  cdn.akamai.steamstatic.com
-23.12.146.141                  cdn.akamai.steamstatic.com
-23.12.146.157                  cdn.store.steampowered.com
-23.12.146.164                  cdn.store.steampowered.com
-182.40.89.23                   store.st.dl.bscstorage.net
-182.40.89.24                   store.st.dl.bscstorage.net
+23.46.150.73                   cdn.steamcommunity.com
+23.46.150.64                   cdn.steamcommunity.com
+23.46.150.35                   media.steampowered.com
+23.46.150.74                   media.steampowered.com
+23.50.124.114                  store.steampowered.com
+23.46.150.35                   cdn.akamai.steamstatic.com
+23.46.150.74                   cdn.akamai.steamstatic.com
+23.46.150.41                   cdn.store.steampowered.com
+23.46.150.66                   cdn.store.steampowered.com
 183.134.34.23                  store.st.dl.bscstorage.net
-183.134.34.24                  store.st.dl.bscstorage.net
+182.40.89.23                   store.st.dl.bscstorage.net
 120.226.43.253                 store.st.dl.bscstorage.net
 182.40.89.25                   store.st.dl.bscstorage.net
-23.59.107.226                  storefront.steampowered.com
+183.134.34.24                  store.st.dl.bscstorage.net
+182.40.89.24                   store.st.dl.bscstorage.net
+23.57.135.97                   storefront.steampowered.com
 # No resolution for store.st.dl.pinyuncloud.com store.st.dl.pinyuncloud.com
 # No resolution for media.st.dl.pinyuncloud.com media.st.dl.pinyuncloud.com
-23.12.146.157                  store.akamai.steamstatic.com
-23.12.146.164                  store.akamai.steamstatic.com
-23.12.146.130                  steamcommunity-a.akamaihd.net
-23.12.146.143                  steamcommunity-a.akamaihd.net
-23.45.180.216                  community.akamai.steamstatic.com
-23.45.180.217                  community.akamai.steamstatic.com
+23.218.217.143                 store.akamai.steamstatic.com
+23.218.217.183                 store.akamai.steamstatic.com
+23.218.217.148                 store.akamai.steamstatic.com
+23.218.217.171                 store.akamai.steamstatic.com
+23.218.218.137                 steamcommunity-a.akamaihd.net
+23.218.218.173                 steamcommunity-a.akamaihd.net
+23.218.218.137                 community.akamai.steamstatic.com
+23.218.218.173                 community.akamai.steamstatic.com
 
-# Last update at 2023-10-18 09:00:53 (Beijing Time)
+# Last update at 2023-10-18 12:16:34 (Beijing Time)
 # Hosts End 
 
