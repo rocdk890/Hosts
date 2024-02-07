@@ -1,264 +1,264 @@
 # Hosts Start 
 # No resolution for kamaihd.net kamaihd.net
-104.89.226.113                 steamgames.com
-104.89.226.113                 steampowered.com
-23.59.200.146                  steamcommunity.com
-104.123.71.244                 cdn.steampowered.com
-104.123.71.252                 cdn.steampowered.com
-23.59.200.146                  api.steampowered.com
-104.123.71.244                 cdn.steampowered.com
-104.123.71.252                 cdn.steampowered.com
-23.59.200.146                  help.steampowered.com
-198.185.159.144                steampoweredmedia.com
+104.112.164.249                steamgames.com
+104.112.164.249                steampowered.com
+104.112.174.139                steamcommunity.com
+23.207.202.38                  cdn.steampowered.com
+23.207.202.18                  cdn.steampowered.com
+23.198.157.99                  api.steampowered.com
+23.207.202.18                  cdn.steampowered.com
+23.207.202.38                  cdn.steampowered.com
+104.112.174.139                help.steampowered.com
 198.185.159.145                steampoweredmedia.com
-198.49.23.145                  steampoweredmedia.com
+198.185.159.144                steampoweredmedia.com
 198.49.23.144                  steampoweredmedia.com
-104.114.76.202                 cdn.steamcommunity.com
-104.114.76.178                 cdn.steamcommunity.com
-104.114.76.152                 media.steampowered.com
-104.114.76.144                 media.steampowered.com
-23.60.65.157                   store.steampowered.com
-104.114.76.152                 cdn.akamai.steamstatic.com
-104.114.76.144                 cdn.akamai.steamstatic.com
-104.114.76.176                 cdn.store.steampowered.com
-104.114.76.163                 cdn.store.steampowered.com
+198.49.23.145                  steampoweredmedia.com
+23.12.146.143                  cdn.steamcommunity.com
+23.12.146.130                  cdn.steamcommunity.com
+23.207.202.68                  media.steampowered.com
+23.207.202.72                  media.steampowered.com
+23.48.9.171                    store.steampowered.com
+23.207.202.68                  cdn.akamai.steamstatic.com
+23.207.202.72                  cdn.akamai.steamstatic.com
+23.12.146.157                  cdn.store.steampowered.com
+23.12.146.164                  cdn.store.steampowered.com
+61.170.98.128                  store.st.dl.bscstorage.net
+218.92.135.45                  store.st.dl.bscstorage.net
 61.170.98.129                  store.st.dl.bscstorage.net
 218.92.135.46                  store.st.dl.bscstorage.net
 61.170.98.127                  store.st.dl.bscstorage.net
 218.92.135.47                  store.st.dl.bscstorage.net
-61.170.98.128                  store.st.dl.bscstorage.net
-218.92.135.45                  store.st.dl.bscstorage.net
-104.89.226.113                 storefront.steampowered.com
+23.197.246.39                  storefront.steampowered.com
 # No resolution for store.st.dl.pinyuncloud.com store.st.dl.pinyuncloud.com
 # No resolution for media.st.dl.pinyuncloud.com media.st.dl.pinyuncloud.com
-104.114.76.163                 store.akamai.steamstatic.com
-104.114.76.176                 store.akamai.steamstatic.com
-23.192.228.145                 steamcommunity-a.akamaihd.net
-23.192.228.142                 steamcommunity-a.akamaihd.net
-104.114.76.178                 community.akamai.steamstatic.com
-104.114.76.202                 community.akamai.steamstatic.com
-192.30.255.113                 github.com
+23.207.202.49                  store.akamai.steamstatic.com
+23.207.202.59                  store.akamai.steamstatic.com
+23.12.146.143                  steamcommunity-a.akamaihd.net
+23.12.146.130                  steamcommunity-a.akamaihd.net
+23.207.202.78                  community.akamai.steamstatic.com
+23.207.202.54                  community.akamai.steamstatic.com
+140.82.113.4                   github.com
 192.0.66.2                     github.blog
-140.82.112.30                  githubapp.com
 140.82.112.29                  githubapp.com
-140.82.114.29                  githubapp.com
 140.82.113.30                  githubapp.com
+140.82.112.30                  githubapp.com
+140.82.114.29                  githubapp.com
 140.82.114.30                  githubapp.com
 140.82.113.29                  githubapp.com
-192.30.255.117                 api.github.com
-185.199.110.133                raw.github.com
-185.199.111.133                raw.github.com
+140.82.112.6                   api.github.com
 185.199.108.133                raw.github.com
+185.199.111.133                raw.github.com
 185.199.109.133                raw.github.com
-2606:50c0:8001::154            raw.github.com
-2606:50c0:8000::154            raw.github.com
+185.199.110.133                raw.github.com
 2606:50c0:8002::154            raw.github.com
+2606:50c0:8001::154            raw.github.com
 2606:50c0:8003::154            raw.github.com
+2606:50c0:8000::154            raw.github.com
 # No resolution for git-server.com git-server.com
-192.30.255.113                 gist.github.com
-192.30.255.113                 octocaptcha.com
-140.82.112.17                  help.github.com
-140.82.112.25                  live.github.com
-140.82.114.18                  github.community
+140.82.113.4                   gist.github.com
+140.82.112.4                   octocaptcha.com
+140.82.113.18                  help.github.com
+140.82.113.26                  live.github.com
+140.82.112.18                  github.community
+185.199.110.153                githubstatus.com
 185.199.111.153                githubstatus.com
 185.199.109.153                githubstatus.com
 185.199.108.153                githubstatus.com
-185.199.110.153                githubstatus.com
 185.199.108.153                pages.github.com
 185.199.110.153                pages.github.com
-185.199.111.153                pages.github.com
 185.199.109.153                pages.github.com
-2606:50c0:8002::153            pages.github.com
-2606:50c0:8000::153            pages.github.com
+185.199.111.153                pages.github.com
 2606:50c0:8003::153            pages.github.com
+2606:50c0:8002::153            pages.github.com
 2606:50c0:8001::153            pages.github.com
-140.82.112.17                  status.github.com
-192.30.255.97                  uploads.github.com
-192.30.255.120                 nodeload.github.com
-185.199.109.153                training.github.com
-185.199.110.153                training.github.com
-185.199.108.153                training.github.com
+2606:50c0:8000::153            pages.github.com
+140.82.113.18                  status.github.com
+140.82.112.13                  uploads.github.com
+140.82.114.10                  nodeload.github.com
 185.199.111.153                training.github.com
+185.199.109.153                training.github.com
+185.199.108.153                training.github.com
+185.199.110.153                training.github.com
 2606:50c0:8000::153            training.github.com
+2606:50c0:8002::153            training.github.com
 2606:50c0:8001::153            training.github.com
 2606:50c0:8003::153            training.github.com
-2606:50c0:8002::153            training.github.com
-192.30.255.120                 codeload.github.com
-185.199.109.153                assets-cdn.github.com
+140.82.114.10                  codeload.github.com
 185.199.108.153                assets-cdn.github.com
-185.199.111.153                assets-cdn.github.com
 185.199.110.153                assets-cdn.github.com
-2606:50c0:8000::153            assets-cdn.github.com
-2606:50c0:8001::153            assets-cdn.github.com
+185.199.109.153                assets-cdn.github.com
+185.199.111.153                assets-cdn.github.com
 2606:50c0:8002::153            assets-cdn.github.com
+2606:50c0:8001::153            assets-cdn.github.com
 2606:50c0:8003::153            assets-cdn.github.com
+2606:50c0:8000::153            assets-cdn.github.com
+185.199.110.154                github.githubassets.com
 185.199.111.154                github.githubassets.com
 185.199.108.154                github.githubassets.com
-185.199.110.154                github.githubassets.com
 185.199.109.154                github.githubassets.com
-185.199.110.153                documentcloud.github.com
-185.199.108.153                documentcloud.github.com
 185.199.109.153                documentcloud.github.com
+185.199.108.153                documentcloud.github.com
+185.199.110.153                documentcloud.github.com
 185.199.111.153                documentcloud.github.com
-2606:50c0:8001::153            documentcloud.github.com
 2606:50c0:8000::153            documentcloud.github.com
+2606:50c0:8001::153            documentcloud.github.com
 2606:50c0:8003::153            documentcloud.github.com
 2606:50c0:8002::153            documentcloud.github.com
+185.199.111.133                raw.githubusercontent.com
 185.199.108.133                raw.githubusercontent.com
 185.199.109.133                raw.githubusercontent.com
 185.199.110.133                raw.githubusercontent.com
-185.199.111.133                raw.githubusercontent.com
 2606:50c0:8000::154            raw.githubusercontent.com
-2606:50c0:8002::154            raw.githubusercontent.com
 2606:50c0:8001::154            raw.githubusercontent.com
+2606:50c0:8002::154            raw.githubusercontent.com
 2606:50c0:8003::154            raw.githubusercontent.com
 185.199.108.133                gist.githubusercontent.com
-185.199.110.133                gist.githubusercontent.com
-185.199.109.133                gist.githubusercontent.com
 185.199.111.133                gist.githubusercontent.com
-185.199.111.133                camo.githubusercontent.com
+185.199.109.133                gist.githubusercontent.com
+185.199.110.133                gist.githubusercontent.com
 185.199.109.133                camo.githubusercontent.com
 185.199.108.133                camo.githubusercontent.com
 185.199.110.133                camo.githubusercontent.com
-185.199.111.133                cloud.githubusercontent.com
-185.199.110.133                cloud.githubusercontent.com
-185.199.109.133                cloud.githubusercontent.com
+185.199.111.133                camo.githubusercontent.com
 185.199.108.133                cloud.githubusercontent.com
-185.199.110.133                media.githubusercontent.com
-185.199.109.133                media.githubusercontent.com
+185.199.111.133                cloud.githubusercontent.com
+185.199.109.133                cloud.githubusercontent.com
+185.199.110.133                cloud.githubusercontent.com
 185.199.108.133                media.githubusercontent.com
+185.199.109.133                media.githubusercontent.com
+185.199.110.133                media.githubusercontent.com
 185.199.111.133                media.githubusercontent.com
-2606:50c0:8001::154            media.githubusercontent.com
-2606:50c0:8002::154            media.githubusercontent.com
 2606:50c0:8003::154            media.githubusercontent.com
 2606:50c0:8000::154            media.githubusercontent.com
-54.231.199.33                  github-com.s3.amazonaws.com
-3.5.6.143                      github-com.s3.amazonaws.com
-52.217.230.233                 github-com.s3.amazonaws.com
-52.216.62.217                  github-com.s3.amazonaws.com
-52.216.37.201                  github-com.s3.amazonaws.com
-52.217.115.113                 github-com.s3.amazonaws.com
-52.217.196.177                 github-com.s3.amazonaws.com
-3.5.11.146                     github-com.s3.amazonaws.com
-151.101.41.194                 github.global.ssl.fastly.net
-185.199.108.133                desktop.githubusercontent.com
-185.199.110.133                desktop.githubusercontent.com
-185.199.111.133                desktop.githubusercontent.com
+2606:50c0:8002::154            media.githubusercontent.com
+2606:50c0:8001::154            media.githubusercontent.com
+52.217.117.209                 github-com.s3.amazonaws.com
+52.217.72.84                   github-com.s3.amazonaws.com
+52.216.215.17                  github-com.s3.amazonaws.com
+3.5.25.45                      github-com.s3.amazonaws.com
+52.217.32.84                   github-com.s3.amazonaws.com
+52.217.224.121                 github-com.s3.amazonaws.com
+3.5.27.234                     github-com.s3.amazonaws.com
+3.5.29.51                      github-com.s3.amazonaws.com
+146.75.29.194                  github.global.ssl.fastly.net
 185.199.109.133                desktop.githubusercontent.com
-3.5.25.206                     github-cloud.s3.amazonaws.com
-52.217.115.169                 github-cloud.s3.amazonaws.com
-3.5.2.206                      github-cloud.s3.amazonaws.com
-52.217.228.1                   github-cloud.s3.amazonaws.com
-54.231.231.113                 github-cloud.s3.amazonaws.com
-52.217.121.241                 github-cloud.s3.amazonaws.com
-52.217.101.76                  github-cloud.s3.amazonaws.com
-52.217.102.156                 github-cloud.s3.amazonaws.com
-185.199.111.133                avatars.githubusercontent.com
+185.199.111.133                desktop.githubusercontent.com
+185.199.110.133                desktop.githubusercontent.com
+185.199.108.133                desktop.githubusercontent.com
+52.217.136.121                 github-cloud.s3.amazonaws.com
+52.216.62.217                  github-cloud.s3.amazonaws.com
+3.5.25.153                     github-cloud.s3.amazonaws.com
+3.5.25.145                     github-cloud.s3.amazonaws.com
+3.5.6.101                      github-cloud.s3.amazonaws.com
+3.5.28.122                     github-cloud.s3.amazonaws.com
+3.5.3.139                      github-cloud.s3.amazonaws.com
+52.216.213.249                 github-cloud.s3.amazonaws.com
 185.199.110.133                avatars.githubusercontent.com
-185.199.108.133                avatars.githubusercontent.com
+185.199.111.133                avatars.githubusercontent.com
 185.199.109.133                avatars.githubusercontent.com
-2606:50c0:8003::154            avatars.githubusercontent.com
+185.199.108.133                avatars.githubusercontent.com
 2606:50c0:8001::154            avatars.githubusercontent.com
-2606:50c0:8000::154            avatars.githubusercontent.com
 2606:50c0:8002::154            avatars.githubusercontent.com
+2606:50c0:8000::154            avatars.githubusercontent.com
+2606:50c0:8003::154            avatars.githubusercontent.com
+185.199.109.133                favicons.githubusercontent.com
+185.199.108.133                favicons.githubusercontent.com
 185.199.110.133                favicons.githubusercontent.com
 185.199.111.133                favicons.githubusercontent.com
-185.199.108.133                favicons.githubusercontent.com
-185.199.109.133                favicons.githubusercontent.com
-185.199.108.133                avatars0.githubusercontent.com
+185.199.110.133                avatars0.githubusercontent.com
 185.199.111.133                avatars0.githubusercontent.com
 185.199.109.133                avatars0.githubusercontent.com
-185.199.110.133                avatars0.githubusercontent.com
-185.199.111.133                avatars1.githubusercontent.com
+185.199.108.133                avatars0.githubusercontent.com
 185.199.109.133                avatars1.githubusercontent.com
-185.199.110.133                avatars1.githubusercontent.com
+185.199.111.133                avatars1.githubusercontent.com
 185.199.108.133                avatars1.githubusercontent.com
+185.199.110.133                avatars1.githubusercontent.com
 185.199.110.133                avatars2.githubusercontent.com
 185.199.108.133                avatars2.githubusercontent.com
-185.199.111.133                avatars2.githubusercontent.com
 185.199.109.133                avatars2.githubusercontent.com
-185.199.111.133                avatars3.githubusercontent.com
-185.199.109.133                avatars3.githubusercontent.com
+185.199.111.133                avatars2.githubusercontent.com
 185.199.108.133                avatars3.githubusercontent.com
 185.199.110.133                avatars3.githubusercontent.com
-185.199.108.133                avatars4.githubusercontent.com
-185.199.109.133                avatars4.githubusercontent.com
-185.199.111.133                avatars4.githubusercontent.com
+185.199.111.133                avatars3.githubusercontent.com
+185.199.109.133                avatars3.githubusercontent.com
 185.199.110.133                avatars4.githubusercontent.com
-185.199.109.133                avatars5.githubusercontent.com
-185.199.110.133                avatars5.githubusercontent.com
-185.199.111.133                avatars5.githubusercontent.com
+185.199.108.133                avatars4.githubusercontent.com
+185.199.111.133                avatars4.githubusercontent.com
+185.199.109.133                avatars4.githubusercontent.com
 185.199.108.133                avatars5.githubusercontent.com
-185.199.108.133                avatars6.githubusercontent.com
+185.199.110.133                avatars5.githubusercontent.com
+185.199.109.133                avatars5.githubusercontent.com
+185.199.111.133                avatars5.githubusercontent.com
+185.199.111.133                avatars6.githubusercontent.com
 185.199.110.133                avatars6.githubusercontent.com
 185.199.109.133                avatars6.githubusercontent.com
-185.199.111.133                avatars6.githubusercontent.com
-185.199.111.133                avatars7.githubusercontent.com
+185.199.108.133                avatars6.githubusercontent.com
 185.199.110.133                avatars7.githubusercontent.com
-185.199.108.133                avatars7.githubusercontent.com
 185.199.109.133                avatars7.githubusercontent.com
+185.199.111.133                avatars7.githubusercontent.com
+185.199.108.133                avatars7.githubusercontent.com
+185.199.110.133                avatars8.githubusercontent.com
+185.199.109.133                avatars8.githubusercontent.com
 185.199.108.133                avatars8.githubusercontent.com
 185.199.111.133                avatars8.githubusercontent.com
-185.199.109.133                avatars8.githubusercontent.com
-185.199.110.133                avatars8.githubusercontent.com
 185.199.108.153                customer-stories-feed.github.com
-185.199.111.153                customer-stories-feed.github.com
 185.199.110.153                customer-stories-feed.github.com
+185.199.111.153                customer-stories-feed.github.com
 185.199.109.153                customer-stories-feed.github.com
-2606:50c0:8000::153            customer-stories-feed.github.com
-2606:50c0:8002::153            customer-stories-feed.github.com
 2606:50c0:8001::153            customer-stories-feed.github.com
+2606:50c0:8002::153            customer-stories-feed.github.com
 2606:50c0:8003::153            customer-stories-feed.github.com
+2606:50c0:8000::153            customer-stories-feed.github.com
 185.199.109.133                user-images.githubusercontent.com
-185.199.108.133                user-images.githubusercontent.com
-185.199.111.133                user-images.githubusercontent.com
 185.199.110.133                user-images.githubusercontent.com
+185.199.111.133                user-images.githubusercontent.com
+185.199.108.133                user-images.githubusercontent.com
 2606:50c0:8000::154            user-images.githubusercontent.com
-2606:50c0:8002::154            user-images.githubusercontent.com
 2606:50c0:8001::154            user-images.githubusercontent.com
+2606:50c0:8002::154            user-images.githubusercontent.com
 2606:50c0:8003::154            user-images.githubusercontent.com
+185.199.111.133                repository-images.githubusercontent.com
 185.199.110.133                repository-images.githubusercontent.com
 185.199.109.133                repository-images.githubusercontent.com
-185.199.111.133                repository-images.githubusercontent.com
 185.199.108.133                repository-images.githubusercontent.com
-185.199.109.133                marketplace-screenshots.githubusercontent.com
-185.199.110.133                marketplace-screenshots.githubusercontent.com
 185.199.111.133                marketplace-screenshots.githubusercontent.com
+185.199.110.133                marketplace-screenshots.githubusercontent.com
+185.199.109.133                marketplace-screenshots.githubusercontent.com
 185.199.108.133                marketplace-screenshots.githubusercontent.com
-52.217.234.97                  github-production-user-asset-6210df.s3.amazonaws.com
-52.217.89.76                   github-production-user-asset-6210df.s3.amazonaws.com
-52.217.172.217                 github-production-user-asset-6210df.s3.amazonaws.com
-54.231.165.249                 github-production-user-asset-6210df.s3.amazonaws.com
-16.182.64.121                  github-production-user-asset-6210df.s3.amazonaws.com
-3.5.8.176                      github-production-user-asset-6210df.s3.amazonaws.com
-3.5.28.218                     github-production-user-asset-6210df.s3.amazonaws.com
-52.216.185.3                   github-production-user-asset-6210df.s3.amazonaws.com
-3.5.8.176                      github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.64.121                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.185.3                   github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.234.97                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.172.217                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.89.76                   github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.165.249                 github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.28.218                     github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.89.76                   github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.172.217                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.185.3                   github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.8.176                      github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.64.121                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.28.218                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.234.97                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.165.249                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-104.19.219.90                  hcaptcha.com
+3.5.28.122                     github-production-user-asset-6210df.s3.amazonaws.com
+52.216.213.249                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.136.121                 github-production-user-asset-6210df.s3.amazonaws.com
+3.5.6.101                      github-production-user-asset-6210df.s3.amazonaws.com
+3.5.25.153                     github-production-user-asset-6210df.s3.amazonaws.com
+3.5.25.145                     github-production-user-asset-6210df.s3.amazonaws.com
+3.5.3.139                      github-production-user-asset-6210df.s3.amazonaws.com
+52.216.62.217                  github-production-user-asset-6210df.s3.amazonaws.com
+16.182.108.97                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.71.41                   github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.74.60                   github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.121.65                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.165.43                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.88.156                  github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.58                      github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.115.193                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.99.156                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.29.182                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.171.9                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.214.153                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.211.41                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.0.121                      github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.28.152                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.129.137                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 104.19.218.90                  hcaptcha.com
+104.19.219.90                  hcaptcha.com
+54.87.215.103                  epicgames.com
+54.82.9.89                     epicgames.com
 23.21.121.106                  epicgames.com
-3.214.128.56                   epicgames.com
-44.193.107.217                 epicgames.com
-52.202.151.102                 epicgames.com
-54.86.163.210                  epicgames.com
-34.231.188.151                 epicgames.com
-18.209.81.20                   epicgames.com
-3.224.196.190                  epicgames.com
+54.87.73.244                   epicgames.com
+35.173.162.30                  epicgames.com
+54.237.114.38                  epicgames.com
+3.234.131.169                  epicgames.com
+34.195.115.128                 epicgames.com
 104.19.218.90                  js.hcaptcha.com
 104.19.219.90                  js.hcaptcha.com
 104.19.219.90                  imgs.hcaptcha.com
@@ -266,81 +266,85 @@
 104.18.33.131                  store.epicgames.com
 172.64.154.125                 store.epicgames.com
 162.247.241.2                  bam-cell.nr-data.net
-108.138.250.158                cdn.unrealengine.com
-151.101.42.137                 js-agent.newrelic.com
-23.56.123.128                  cdn1.unrealengine.com
-23.56.123.128                  cdn2.unrealengine.com
-23.56.127.226                  docs.unrealengine.com
-18.238.192.34                  download.epicgames.com
-18.238.192.4                   download.epicgames.com
-18.238.192.11                  download.epicgames.com
-18.238.192.92                  download.epicgames.com
+99.86.191.99                   cdn.unrealengine.com
+146.75.30.137                  js-agent.newrelic.com
+173.222.53.45                  cdn1.unrealengine.com
+23.41.221.74                   cdn2.unrealengine.com
+104.102.140.212                docs.unrealengine.com
+18.160.41.43                   download.epicgames.com
+18.160.41.36                   download.epicgames.com
+18.160.41.42                   download.epicgames.com
+18.160.41.115                  download.epicgames.com
 54.235.183.100                 tracking.epicgames.com
-35.169.213.226                 tracking.epicgames.com
 18.209.215.239                 tracking.epicgames.com
-104.19.219.90                  newassets.hcaptcha.com
+35.169.213.226                 tracking.epicgames.com
 104.19.218.90                  newassets.hcaptcha.com
-108.138.246.59                 download2.epicgames.com
-108.138.246.124                download2.epicgames.com
-108.138.246.42                 download2.epicgames.com
-108.138.246.76                 download2.epicgames.com
-18.161.6.63                    download3.epicgames.com
-18.161.6.52                    download3.epicgames.com
-18.161.6.21                    download3.epicgames.com
-18.161.6.95                    download3.epicgames.com
-18.155.202.126                 download4.epicgames.com
-18.155.202.127                 download4.epicgames.com
-18.155.202.117                 download4.epicgames.com
-18.155.202.55                  download4.epicgames.com
-18.155.192.91                  media-cdn.epicgames.com
-18.155.192.10                  media-cdn.epicgames.com
-18.155.192.113                 media-cdn.epicgames.com
-18.155.192.86                  media-cdn.epicgames.com
+104.19.219.90                  newassets.hcaptcha.com
+108.139.29.4                   download2.epicgames.com
+108.139.29.40                  download2.epicgames.com
+108.139.29.31                  download2.epicgames.com
+108.139.29.55                  download2.epicgames.com
+3.162.103.16                   download3.epicgames.com
+3.162.103.22                   download3.epicgames.com
+3.162.103.80                   download3.epicgames.com
+3.162.103.37                   download3.epicgames.com
+18.238.55.80                   download4.epicgames.com
+18.238.55.35                   download4.epicgames.com
+18.238.55.62                   download4.epicgames.com
+18.238.55.64                   download4.epicgames.com
+3.162.112.109                  media-cdn.epicgames.com
+3.162.112.59                   media-cdn.epicgames.com
+3.162.112.37                   media-cdn.epicgames.com
+3.162.112.105                  media-cdn.epicgames.com
 3.94.37.135                    perf.store.on.epicgames.com
-34.225.156.29                  perf.store.on.epicgames.com
 54.88.52.180                   perf.store.on.epicgames.com
-20.72.203.87                   merchantpool1.epicgames.com
+34.225.156.29                  perf.store.on.epicgames.com
+40.65.233.137                  merchantpool1.epicgames.com
 # No resolution for store-launcher.epicgames.com store-launcher.epicgames.com
 198.217.251.250                songbird.cardinalcommerce.com
 198.217.251.251                songbird.cardinalcommerce.com
 2606:4700::c6d9:fbfb           songbird.cardinalcommerce.com
 2606:4700::c6d9:fbfa           songbird.cardinalcommerce.com
-104.100.76.60                  store-content.ak.epicgames.com
-2600:1406:3a00:688::3b63       store-content.ak.epicgames.com
-2600:1406:3a00:683::3b63       store-content.ak.epicgames.com
-104.81.49.101                  static-assets-prod.epicgames.com
-104.81.49.101                  static-assets-prod.epicgames.com
-23.44.229.202                  epicgames-download1.akamaized.net
-23.44.229.226                  epicgames-download1.akamaized.net
-104.100.76.60                  store-content-ipv4.ak.epicgames.com
+104.102.132.226                store-content.ak.epicgames.com
+2600:1408:ec00:48f::3b63       store-content.ak.epicgames.com
+2600:1408:ec00:48a::3b63       store-content.ak.epicgames.com
+23.41.241.12                   static-assets-prod.epicgames.com
+23.41.241.12                   static-assets-prod.epicgames.com
+23.221.227.165                 epicgames-download1.akamaized.net
+23.221.227.173                 epicgames-download1.akamaized.net
+23.221.227.170                 epicgames-download1.akamaized.net
+23.221.227.169                 epicgames-download1.akamaized.net
+23.221.227.168                 epicgames-download1.akamaized.net
+23.221.227.171                 epicgames-download1.akamaized.net
+104.102.132.226                store-content-ipv4.ak.epicgames.com
 # No resolution for talon-website-prod.ak.epicgames.com talon-website-prod.ak.epicgames.com
-104.18.41.136                  talon-service-prod.ecosec.on.epicgames.com
 172.64.146.120                 talon-service-prod.ecosec.on.epicgames.com
+104.18.41.136                  talon-service-prod.ecosec.on.epicgames.com
 2606:4700:4400::6812:2988      talon-service-prod.ecosec.on.epicgames.com
 2606:4700:4400::ac40:9278      talon-service-prod.ecosec.on.epicgames.com
 104.18.41.136                  talon-website-prod.ecosec.on.epicgames.com
 172.64.146.120                 talon-website-prod.ecosec.on.epicgames.com
-2606:4700:4400::6812:2988      talon-website-prod.ecosec.on.epicgames.com
 2606:4700:4400::ac40:9278      talon-website-prod.ecosec.on.epicgames.com
-104.100.76.60                  store-site-backend-static.ak.epicgames.com
-2600:1406:3a00:793::3b63       store-site-backend-static.ak.epicgames.com
-2600:1406:3a00:786::3b63       store-site-backend-static.ak.epicgames.com
-3.210.237.60                   account-public-service-prod03.ol.epicgames.com
-54.88.68.249                   account-public-service-prod03.ol.epicgames.com
-3.226.51.96                    account-public-service-prod03.ol.epicgames.com
-34.231.46.62                   account-public-service-prod03.ol.epicgames.com
-3.218.105.130                  account-public-service-prod03.ol.epicgames.com
-35.171.222.12                  account-public-service-prod03.ol.epicgames.com
-34.204.120.166                 account-public-service-prod03.ol.epicgames.com
-34.206.105.128                 account-public-service-prod03.ol.epicgames.com
-18.155.192.64                  epic-social-social-modules-prod.ol.epicgames.com
-18.155.192.129                 epic-social-social-modules-prod.ol.epicgames.com
-18.155.192.24                  epic-social-social-modules-prod.ol.epicgames.com
-18.155.192.113                 epic-social-social-modules-prod.ol.epicgames.com
-54.85.58.164                   eulatracking-public-service-prod06.ol.epicgames.com
-34.238.36.82                   eulatracking-public-service-prod06.ol.epicgames.com
-3.226.246.176                  eulatracking-public-service-prod06.ol.epicgames.com
+2606:4700:4400::6812:2988      talon-website-prod.ecosec.on.epicgames.com
+104.102.132.226                store-site-backend-static.ak.epicgames.com
+2600:1408:ec00:48a::3b63       store-site-backend-static.ak.epicgames.com
+2600:1408:ec00:48f::3b63       store-site-backend-static.ak.epicgames.com
+3.224.231.194                  account-public-service-prod03.ol.epicgames.com
+3.216.161.94                   account-public-service-prod03.ol.epicgames.com
+35.168.162.195                 account-public-service-prod03.ol.epicgames.com
+34.225.60.50                   account-public-service-prod03.ol.epicgames.com
+34.226.236.20                  account-public-service-prod03.ol.epicgames.com
+34.195.13.38                   account-public-service-prod03.ol.epicgames.com
+44.215.81.68                   account-public-service-prod03.ol.epicgames.com
+3.208.53.252                   account-public-service-prod03.ol.epicgames.com
+18.238.80.27                   epic-social-social-modules-prod.ol.epicgames.com
+18.238.80.39                   epic-social-social-modules-prod.ol.epicgames.com
+18.238.80.65                   epic-social-social-modules-prod.ol.epicgames.com
+18.238.80.91                   epic-social-social-modules-prod.ol.epicgames.com
 3.229.2.174                    eulatracking-public-service-prod06.ol.epicgames.com
+3.226.246.176                  eulatracking-public-service-prod06.ol.epicgames.com
+34.238.36.82                   eulatracking-public-service-prod06.ol.epicgames.com
+54.85.58.164                   eulatracking-public-service-prod06.ol.epicgames.com
 # No resolution for assets-hcaptcha-proxy-service-prod.ak.epicgames.com assets-hcaptcha-proxy-service-prod.ak.epicgames.com
 43.159.0.230                   weighted-zh-eulatracking-public-service-prod06.ol.epicgames.com
 # No resolution for #wns.windows.com #wns.windows.com
@@ -360,56 +364,56 @@
 # No resolution for #substrate.office.com #substrate.office.com
 # No resolution for #storage.live.com #storage.live.com
 # No resolution for #api.onedrive.com #api.onedrive.com
-20.99.185.48                   arc.msn.com
+23.101.168.44                  arc.msn.com
 # No resolution for #skydrive.wns.windows.com #skydrive.wns.windows.com
 # No resolution for #onedrive.live.com #onedrive.live.com
 # No resolution for #config.teams.microsoft.com #config.teams.microsoft.com
 172.67.199.34                  feedback.microsoft-hohm.com
 104.21.21.147                  feedback.microsoft-hohm.com
-2606:4700:3037::ac43:c722      feedback.microsoft-hohm.com
 2606:4700:3031::6815:1593      feedback.microsoft-hohm.com
+2606:4700:3037::ac43:c722      feedback.microsoft-hohm.com
 204.79.197.200                 search.msn.com
 13.107.21.200                  search.msn.com
-198.78.193.126                 a.ads1.msn.com
-198.78.193.126                 a.ads2.msn.com
+8.27.243.253                   a.ads1.msn.com
+8.27.243.253                   a.ads2.msn.com
 # No resolution for a.rad.msn.com a.rad.msn.com
 131.253.14.76                  ac3.msn.com
 204.79.197.203                 ads.msn.com
-198.78.193.126                 ads1.msn.com
-198.78.193.126                 b.ads1.msn.com
+8.27.243.253                   ads1.msn.com
+8.27.243.253                   b.ads1.msn.com
 # No resolution for b.rad.msn.com b.rad.msn.com
-20.125.62.241                  c.msn.com
+20.110.205.119                 c.msn.com
 # No resolution for corpext.msitadfs.glbdns2.microsoft.com corpext.msitadfs.glbdns2.microsoft.com
 204.79.197.203                 flex.msn.com
-20.125.63.4                    g.msn.com
-23.44.72.28                    h1.msn.com
+20.22.207.36                   g.msn.com
+23.56.212.27                   h1.msn.com
 204.79.197.203                 live.rads.msn.com
-131.253.33.203                 preview.msn.com
+204.79.197.203                 preview.msn.com
 # No resolution for rad.msn.com rad.msn.com
 # No resolution for schemas.microsoft.akadns.net schemas.microsoft.akadns.net
 # No resolution for settings.data.glbdns2.microsoft.com settings.data.glbdns2.microsoft.com
 207.68.166.254                 survey.watson.microsoft.com
 104.208.16.93                  watson.microsoft.com
-13.91.231.123                  ars.smartscreen.microsoft.com
+20.98.40.52                    ars.smartscreen.microsoft.com
 72.21.81.200                   az361816.vo.msecnd.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 az361816.vo.msecnd.net
 72.21.81.200                   az512334.vo.msecnd.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 az512334.vo.msecnd.net
-104.100.76.98                  blob.weather.microsoft.com
+104.90.245.116                 blob.weather.microsoft.com
 34.160.176.124                 candycrushsoda.king.com
-23.59.193.145                  cdn.content.prod.cms.msn.com
-2600:1406:3a00:68e::29a7       cdn.content.prod.cms.msn.com
-2600:1406:3a00:693::29a7       cdn.content.prod.cms.msn.com
+104.112.175.38                 cdn.content.prod.cms.msn.com
+2600:141b:f000:c87::29a7       cdn.content.prod.cms.msn.com
+2600:141b:f000:c9b::29a7       cdn.content.prod.cms.msn.com
 # No resolution for #cdn.onenote.net #cdn.onenote.net
-23.60.66.97                    choice.microsoft.com
+23.222.198.133                 choice.microsoft.com
 65.55.130.50                   choice.microsoft.com.nsatc.net
-40.83.240.146                  client.wns.windows.com
-52.159.49.199                  client-s.gateway.messenger.live.com
-13.107.213.69                  clientconfig.passport.net
-13.107.246.69                  clientconfig.passport.net
+20.7.2.167                     client.wns.windows.com
+20.185.212.106                 client-s.gateway.messenger.live.com
+13.107.253.40                  clientconfig.passport.net
+13.107.226.40                  clientconfig.passport.net
 2606:2800:11f:1cb7:261b:1f9c:2074:3c clientconfig.passport.net
-52.156.99.28                   device.auth.xboxlive.com
-138.91.171.81                  dmd.metaservices.microsoft.com
+20.109.105.194                 device.auth.xboxlive.com
+52.142.223.178                 dmd.metaservices.microsoft.com
 131.107.255.255                dns.msftncsi.com
 fd3e:4f5a:5b81::1              dns.msftncsi.com
 172.67.199.34                  feedback.microsoft-hohm.com
@@ -418,70 +422,65 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2606:4700:3031::6815:1593      feedback.microsoft-hohm.com
 157.55.129.21                  feedback.search.microsoft.com
 134.170.188.248                feedback.windows.com
-104.123.71.96                  img-s-msn-com.akamaized.net
-104.123.71.88                  img-s-msn-com.akamaized.net
-104.123.71.89                  img-s-msn-com.akamaized.net
-104.123.71.73                  img-s-msn-com.akamaized.net
-104.123.71.82                  img-s-msn-com.akamaized.net
-104.123.71.75                  img-s-msn-com.akamaized.net
-104.123.71.72                  img-s-msn-com.akamaized.net
-104.123.71.80                  img-s-msn-com.akamaized.net
-2600:1406:2e00:19::6010:3717   img-s-msn-com.akamaized.net
-2600:1406:2e00:19::6010:372c   img-s-msn-com.akamaized.net
-52.137.108.250                 licensing.mp.microsoft.com
+104.97.85.7                    img-s-msn-com.akamaized.net
+104.97.85.34                   img-s-msn-com.akamaized.net
+2600:1408:5400:1c::173d:b3d    img-s-msn-com.akamaized.net
+2600:1408:5400:1c::173d:b32    img-s-msn-com.akamaized.net
+2600:1408:5400:1c::173d:b45    img-s-msn-com.akamaized.net
+20.96.63.25                    licensing.mp.microsoft.com
 # No resolution for #officeclient.microsoft.com #officeclient.microsoft.com
-23.44.73.142                   oneclient.sfx.ms
-2600:1406:3a00:691::25bb       oneclient.sfx.ms
-2600:1406:3a00:692::25bb       oneclient.sfx.ms
+23.56.213.136                  oneclient.sfx.ms
+2600:141b:f000:c09e::25bb      oneclient.sfx.ms
+2600:141b:f000:c08f::25bb      oneclient.sfx.ms
+2600:141b:f000:c09b::25bb      oneclient.sfx.ms
+2600:141b:f000:c085::25bb      oneclient.sfx.ms
+2600:141b:f000:c083::25bb      oneclient.sfx.ms
 # No resolution for pti.store.microsoft.com pti.store.microsoft.com
-104.68.110.141                 query.prod.cms.rt.microsoft.com
-2600:1406:3a00:782::2b3e       query.prod.cms.rt.microsoft.com
-2600:1406:3a00:792::2b3e       query.prod.cms.rt.microsoft.com
+104.102.128.197                query.prod.cms.rt.microsoft.com
+2600:1408:7:1ad::2b3e          query.prod.cms.rt.microsoft.com
+2600:1408:7:189::2b3e          query.prod.cms.rt.microsoft.com
 20.54.232.160                  register.cdpcs.microsoft.com
-142.251.46.230                 s0.2mdn.net
-2607:f8b0:4005:810::2006       s0.2mdn.net
+172.253.63.149                 s0.2mdn.net
+172.253.63.148                 s0.2mdn.net
+2607:f8b0:4004:c06::95         s0.2mdn.net
+2607:f8b0:4004:c06::94         s0.2mdn.net
 13.107.21.200                  search.msn.com
 204.79.197.200                 search.msn.com
-23.60.64.9                     settings-ssl.xboxlive.com
-2600:1406:3a00:78e::57         settings-ssl.xboxlive.com
-2600:1406:3a00:78c::57         settings-ssl.xboxlive.com
-142.250.188.6                  static.2mdn.net
-2607:f8b0:4005:80e::2006       static.2mdn.net
-23.60.65.236                   store-images.s-microsoft.com
-2600:1406:2e00:783::3114       store-images.s-microsoft.com
-2600:1406:2e00:7a7::3114       store-images.s-microsoft.com
-23.44.74.104                   storeedgefd.dsx.mp.microsoft.com
-2600:1406:3a00:690::4106       storeedgefd.dsx.mp.microsoft.com
-2600:1406:3a00:689::4106       storeedgefd.dsx.mp.microsoft.com
-23.60.64.143                   support.microsoft.com
-2600:1406:2e00:788::f03        support.microsoft.com
-2600:1406:2e00:797::f03        support.microsoft.com
-104.86.90.224                  tile-service.weather.microsoft.com
-40.119.6.228                   time.windows.com
+23.48.8.9                      settings-ssl.xboxlive.com
+2600:1408:7:19a::57            settings-ssl.xboxlive.com
+2600:1408:7:1ab::57            settings-ssl.xboxlive.com
+2600:1408:7:19d::57            settings-ssl.xboxlive.com
+172.253.63.148                 static.2mdn.net
+172.253.63.149                 static.2mdn.net
+2607:f8b0:4004:c1b::94         static.2mdn.net
+2607:f8b0:4004:c1b::95         static.2mdn.net
+23.48.9.252                    store-images.s-microsoft.com
+2600:1408:7:19b::3114          store-images.s-microsoft.com
+2600:1408:7:19e::3114          store-images.s-microsoft.com
+23.199.50.5                    storeedgefd.dsx.mp.microsoft.com
+2600:141b:f000:c92::4106       storeedgefd.dsx.mp.microsoft.com
+2600:141b:f000:c8b::4106       storeedgefd.dsx.mp.microsoft.com
+23.222.196.154                 support.microsoft.com
+2600:1408:ec00:484::f03        support.microsoft.com
+2600:1408:ec00:483::f03        support.microsoft.com
+104.112.176.236                tile-service.weather.microsoft.com
+168.61.215.74                  time.windows.com
 207.46.223.94                  tk2.plt.msn.com
-20.253.1.29                    urs.smartscreen.microsoft.com
-20.245.155.183                 wdcp.microsoft.com
-20.253.175.208                 wdcpalt.microsoft.com
+52.255.102.248                 urs.smartscreen.microsoft.com
+20.81.62.55                    wdcp.microsoft.com
+20.253.207.205                 wdcpalt.microsoft.com
 204.79.197.200                 win10-trt.msedge.net
 13.107.21.200                  win10-trt.msedge.net
-2a01:111:202c::200             win10-trt.msedge.net
-104.89.231.78                  wscont.apps.microsoft.com
-104.123.71.89                  www.msftconnecttest.com
-104.123.71.75                  www.msftconnecttest.com
-104.123.71.91                  www.msftconnecttest.com
-104.123.71.96                  www.msftconnecttest.com
-104.123.71.73                  www.msftconnecttest.com
-104.123.71.90                  www.msftconnecttest.com
-104.123.71.88                  www.msftconnecttest.com
-104.123.71.81                  www.msftconnecttest.com
-104.123.71.91                  www.msftncsi.com
-104.123.71.81                  www.msftncsi.com
-104.123.71.89                  www.msftncsi.com
-104.123.71.90                  www.msftncsi.com
-104.123.71.88                  www.msftncsi.com
-104.123.71.73                  www.msftncsi.com
-104.123.71.75                  www.msftncsi.com
-104.123.71.96                  www.msftncsi.com
+2620:1ec:c11::200              win10-trt.msedge.net
+104.112.171.172                wscont.apps.microsoft.com
+104.97.85.57                   www.msftconnecttest.com
+104.97.85.33                   www.msftconnecttest.com
+104.97.85.31                   www.msftconnecttest.com
+104.97.85.44                   www.msftconnecttest.com
+104.97.85.44                   www.msftncsi.com
+104.97.85.33                   www.msftncsi.com
+104.97.85.31                   www.msftncsi.com
+104.97.85.57                   www.msftncsi.com
 204.79.197.200                 a-0001.a-msedge.net
 13.107.21.200                  a-0001.a-msedge.net
 131.253.33.200                 a-0001.dc-msedge.net
@@ -498,18 +497,18 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2620:1ec:c11::212              a-0010.a-msedge.net
 204.79.197.213                 a-0011.a-msedge.net
 204.79.197.214                 a-0012.a-msedge.net
-198.78.193.126                 a.ads1.msn.com
+8.27.243.253                   a.ads1.msn.com
 72.21.81.200                   a.ads2.msads.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 a.ads2.msads.net
-198.78.193.126                 a.ads2.msn.com
+8.27.243.253                   a.ads2.msn.com
 131.253.14.76                  ac3.msn.com
-20.198.2.181                   activity.windows.com
-131.253.33.203                 ads.msn.com
-23.38.238.59                   ads1.msads.net
-198.78.193.126                 ads1.msn.com
+20.69.137.228                  activity.windows.com
+204.79.197.203                 ads.msn.com
+23.37.216.7                    ads1.msads.net
+8.27.243.253                   ads1.msn.com
 # No resolution for aidps.atdmt.com aidps.atdmt.com
 152.195.50.49                  aka-cdn-ns.adtech.de
-198.78.193.126                 b.ads1.msn.com
+8.27.243.253                   b.ads1.msn.com
 72.21.81.200                   b.ads2.msads.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 b.ads2.msads.net
 20.59.118.181                  bingads.microsoft.com
@@ -520,17 +519,22 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 # No resolution for bn2b-cor004.api.p001.1drv.com bn2b-cor004.api.p001.1drv.com
 131.253.34.230                 bn2wns1.wns.windows.com
 # No resolution for bn3sch020022328.wns.windows.com bn3sch020022328.wns.windows.com
-44.224.180.186                 bs.serving-sys.com
-54.201.177.89                  bs.serving-sys.com
-54.213.28.220                  bs.serving-sys.com
+3.137.27.104                   bs.serving-sys.com
+18.220.71.126                  bs.serving-sys.com
+3.19.202.8                     bs.serving-sys.com
+3.132.231.134                  bs.serving-sys.com
+3.135.149.238                  bs.serving-sys.com
+3.23.205.30                    bs.serving-sys.com
+3.131.180.32                   bs.serving-sys.com
+18.116.17.233                  bs.serving-sys.com
 # No resolution for c.atdmt.com c.atdmt.com
-20.125.62.241                  c.msn.com
+20.110.205.119                 c.msn.com
 13.107.12.50                   c-0001.dc-msedge.net
 2620:1ec:5::50                 c-0001.dc-msedge.net
-13.107.213.69                  cache.datamart.windows.com
-13.107.246.69                  cache.datamart.windows.com
-2620:1ec:bdf::69               cache.datamart.windows.com
-2620:1ec:46::69                cache.datamart.windows.com
+13.107.213.40                  cache.datamart.windows.com
+13.107.246.40                  cache.datamart.windows.com
+2620:1ec:29:1::40              cache.datamart.windows.com
+2620:1ec:48:1::40              cache.datamart.windows.com
 # No resolution for cds1204.lon.llnw.net cds1204.lon.llnw.net
 # No resolution for cds1293.lon.llnw.net cds1293.lon.llnw.net
 # No resolution for cds26.ams9.msecn.net cds26.ams9.msecn.net
@@ -542,8 +546,8 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 93.184.215.201                 cs1.wpc.v0cdn.net
 2606:2800:11f:179a:1972:2405:35b:459 cs1.wpc.v0cdn.net
 # No resolution for db3aqu.atdmt.com db3aqu.atdmt.com
-2a01:111:f004:31::181          db3wns2011111.wns.windows.com
-40.83.240.146                  db5.wns.windows.com
+# No resolution for db3wns2011111.wns.windows.com db3wns2011111.wns.windows.com
+20.7.1.246                     db5.wns.windows.com
 # No resolution for db5sch101100122.wns.windows.com db5sch101100122.wns.windows.com
 # No resolution for db5sch101100127.wns.windows.com db5sch101100127.wns.windows.com
 # No resolution for db5sch101100831.wns.windows.com db5sch101100831.wns.windows.com
@@ -732,77 +736,77 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 # No resolution for db5sch103102610.wns.windows.com db5sch103102610.wns.windows.com
 # No resolution for db5sch103102805.wns.windows.com db5sch103102805.wns.windows.com
 40.77.226.247                  db5wns1d.wns.windows.com
-40.77.229.34                   db6sch102090104.wns.windows.com
-40.77.229.36                   db6sch102090112.wns.windows.com
-40.77.229.39                   db6sch102090116.wns.windows.com
-40.77.229.40                   db6sch102090122.wns.windows.com
-40.77.229.41                   db6sch102090203.wns.windows.com
-40.77.229.42                   db6sch102090206.wns.windows.com
-40.77.229.43                   db6sch102090208.wns.windows.com
-40.77.229.44                   db6sch102090209.wns.windows.com
-40.77.229.46                   db6sch102090211.wns.windows.com
-40.77.229.48                   db6sch102090305.wns.windows.com
-40.77.229.49                   db6sch102090306.wns.windows.com
-40.77.229.50                   db6sch102090308.wns.windows.com
-40.77.229.52                   db6sch102090311.wns.windows.com
-40.77.229.53                   db6sch102090313.wns.windows.com
-40.77.229.57                   db6sch102090410.wns.windows.com
-40.77.229.58                   db6sch102090412.wns.windows.com
-40.77.229.60                   db6sch102090504.wns.windows.com
-40.77.229.62                   db6sch102090510.wns.windows.com
-40.77.229.63                   db6sch102090512.wns.windows.com
-40.77.229.64                   db6sch102090513.wns.windows.com
-40.77.229.65                   db6sch102090514.wns.windows.com
-40.77.229.66                   db6sch102090519.wns.windows.com
-40.77.229.71                   db6sch102090613.wns.windows.com
-40.77.229.72                   db6sch102090619.wns.windows.com
-40.77.229.82                   db6sch102090810.wns.windows.com
-40.77.229.83                   db6sch102090811.wns.windows.com
-40.77.229.84                   db6sch102090902.wns.windows.com
-40.77.229.86                   db6sch102090905.wns.windows.com
-40.77.229.87                   db6sch102090907.wns.windows.com
-40.77.229.88                   db6sch102090908.wns.windows.com
-40.77.229.89                   db6sch102090910.wns.windows.com
-40.77.229.90                   db6sch102090911.wns.windows.com
-40.77.229.91                   db6sch102091003.wns.windows.com
-40.77.229.4                    db6sch102091007.wns.windows.com
-40.77.229.5                    db6sch102091008.wns.windows.com
-40.77.229.6                    db6sch102091009.wns.windows.com
-40.77.229.7                    db6sch102091011.wns.windows.com
-40.77.229.8                    db6sch102091103.wns.windows.com
-40.77.229.9                    db6sch102091105.wns.windows.com
-40.77.229.15                   db6sch102091204.wns.windows.com
-40.77.229.17                   db6sch102091209.wns.windows.com
-40.77.229.21                   db6sch102091305.wns.windows.com
-40.77.229.23                   db6sch102091307.wns.windows.com
-40.77.229.24                   db6sch102091308.wns.windows.com
-40.77.229.25                   db6sch102091309.wns.windows.com
-40.77.229.26                   db6sch102091314.wns.windows.com
-40.77.229.28                   db6sch102091412.wns.windows.com
-40.77.229.30                   db6sch102091503.wns.windows.com
-40.77.229.32                   db6sch102091507.wns.windows.com
-40.77.229.36                   db6sch102091602.wns.windows.com
-40.77.229.37                   db6sch102091603.wns.windows.com
-40.77.229.39                   db6sch102091606.wns.windows.com
-40.77.229.40                   db6sch102091607.wns.windows.com
-13.107.246.69                  dev.virtualearth.net
-13.107.213.69                  dev.virtualearth.net
-2620:1ec:46::69                dev.virtualearth.net
-2620:1ec:bdf::69               dev.virtualearth.net
+# No resolution for db6sch102090104.wns.windows.com db6sch102090104.wns.windows.com
+# No resolution for db6sch102090112.wns.windows.com db6sch102090112.wns.windows.com
+# No resolution for db6sch102090116.wns.windows.com db6sch102090116.wns.windows.com
+# No resolution for db6sch102090122.wns.windows.com db6sch102090122.wns.windows.com
+# No resolution for db6sch102090203.wns.windows.com db6sch102090203.wns.windows.com
+# No resolution for db6sch102090206.wns.windows.com db6sch102090206.wns.windows.com
+# No resolution for db6sch102090208.wns.windows.com db6sch102090208.wns.windows.com
+# No resolution for db6sch102090209.wns.windows.com db6sch102090209.wns.windows.com
+# No resolution for db6sch102090211.wns.windows.com db6sch102090211.wns.windows.com
+# No resolution for db6sch102090305.wns.windows.com db6sch102090305.wns.windows.com
+# No resolution for db6sch102090306.wns.windows.com db6sch102090306.wns.windows.com
+# No resolution for db6sch102090308.wns.windows.com db6sch102090308.wns.windows.com
+# No resolution for db6sch102090311.wns.windows.com db6sch102090311.wns.windows.com
+# No resolution for db6sch102090313.wns.windows.com db6sch102090313.wns.windows.com
+# No resolution for db6sch102090410.wns.windows.com db6sch102090410.wns.windows.com
+# No resolution for db6sch102090412.wns.windows.com db6sch102090412.wns.windows.com
+# No resolution for db6sch102090504.wns.windows.com db6sch102090504.wns.windows.com
+# No resolution for db6sch102090510.wns.windows.com db6sch102090510.wns.windows.com
+# No resolution for db6sch102090512.wns.windows.com db6sch102090512.wns.windows.com
+# No resolution for db6sch102090513.wns.windows.com db6sch102090513.wns.windows.com
+# No resolution for db6sch102090514.wns.windows.com db6sch102090514.wns.windows.com
+# No resolution for db6sch102090519.wns.windows.com db6sch102090519.wns.windows.com
+# No resolution for db6sch102090613.wns.windows.com db6sch102090613.wns.windows.com
+# No resolution for db6sch102090619.wns.windows.com db6sch102090619.wns.windows.com
+# No resolution for db6sch102090810.wns.windows.com db6sch102090810.wns.windows.com
+# No resolution for db6sch102090811.wns.windows.com db6sch102090811.wns.windows.com
+# No resolution for db6sch102090902.wns.windows.com db6sch102090902.wns.windows.com
+# No resolution for db6sch102090905.wns.windows.com db6sch102090905.wns.windows.com
+# No resolution for db6sch102090907.wns.windows.com db6sch102090907.wns.windows.com
+# No resolution for db6sch102090908.wns.windows.com db6sch102090908.wns.windows.com
+# No resolution for db6sch102090910.wns.windows.com db6sch102090910.wns.windows.com
+# No resolution for db6sch102090911.wns.windows.com db6sch102090911.wns.windows.com
+# No resolution for db6sch102091003.wns.windows.com db6sch102091003.wns.windows.com
+# No resolution for db6sch102091007.wns.windows.com db6sch102091007.wns.windows.com
+# No resolution for db6sch102091008.wns.windows.com db6sch102091008.wns.windows.com
+# No resolution for db6sch102091009.wns.windows.com db6sch102091009.wns.windows.com
+# No resolution for db6sch102091011.wns.windows.com db6sch102091011.wns.windows.com
+# No resolution for db6sch102091103.wns.windows.com db6sch102091103.wns.windows.com
+# No resolution for db6sch102091105.wns.windows.com db6sch102091105.wns.windows.com
+# No resolution for db6sch102091204.wns.windows.com db6sch102091204.wns.windows.com
+# No resolution for db6sch102091209.wns.windows.com db6sch102091209.wns.windows.com
+# No resolution for db6sch102091305.wns.windows.com db6sch102091305.wns.windows.com
+# No resolution for db6sch102091307.wns.windows.com db6sch102091307.wns.windows.com
+# No resolution for db6sch102091308.wns.windows.com db6sch102091308.wns.windows.com
+# No resolution for db6sch102091309.wns.windows.com db6sch102091309.wns.windows.com
+# No resolution for db6sch102091314.wns.windows.com db6sch102091314.wns.windows.com
+# No resolution for db6sch102091412.wns.windows.com db6sch102091412.wns.windows.com
+# No resolution for db6sch102091503.wns.windows.com db6sch102091503.wns.windows.com
+# No resolution for db6sch102091507.wns.windows.com db6sch102091507.wns.windows.com
+# No resolution for db6sch102091602.wns.windows.com db6sch102091602.wns.windows.com
+# No resolution for db6sch102091603.wns.windows.com db6sch102091603.wns.windows.com
+# No resolution for db6sch102091606.wns.windows.com db6sch102091606.wns.windows.com
+# No resolution for db6sch102091607.wns.windows.com db6sch102091607.wns.windows.com
+13.107.226.40                  dev.virtualearth.net
+13.107.253.40                  dev.virtualearth.net
+2620:1ec:48:1::40              dev.virtualearth.net
+2620:1ec:29:1::40              dev.virtualearth.net
 65.52.100.7                    df.telemetry.microsoft.com
 134.170.52.151                 diagnostics.support.microsoft.com
 # No resolution for ec.atdmt.com ec.atdmt.com
-104.123.77.101                 ecn.dev.virtualearth.net
-2600:1406:3a00:794::1011       ecn.dev.virtualearth.net
-2600:1406:3a00:78e::1011       ecn.dev.virtualearth.net
-20.50.80.214                   eu.vortex.data.microsoft.com
+173.222.53.87                  ecn.dev.virtualearth.net
+2600:141b:1c00:248d::1011      ecn.dev.virtualearth.net
+2600:141b:1c00:2483::1011      ecn.dev.virtualearth.net
+13.69.239.73                   eu.vortex.data.microsoft.com
 204.79.197.203                 flex.msn.com
-23.44.74.101                   fs.microsoft.com
-20.125.63.4                    g.msn.com
-52.137.102.105                 geo-prod.do.dsp.mp.microsoft.com
-104.89.224.167                 geover-prod.do.dsp.mp.microsoft.com
-23.44.72.28                    h1.msn.com
-23.44.72.28                    h2.msn.com
+23.57.64.93                    fs.microsoft.com
+20.22.207.36                   g.msn.com
+52.143.80.209                  geo-prod.do.dsp.mp.microsoft.com
+23.39.19.115                   geover-prod.do.dsp.mp.microsoft.com
+23.56.212.27                   h1.msn.com
+23.199.48.22                   h2.msn.com
 # No resolution for i-bl6p-cor001.api.p001.1drv.com i-bl6p-cor001.api.p001.1drv.com
 # No resolution for i-by3p-cor001.api.p001.1drv.com i-by3p-cor001.api.p001.1drv.com
 # No resolution for i-by3p-cor002.api.p001.1drv.com i-by3p-cor002.api.p001.1drv.com
@@ -810,85 +814,104 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 40.77.224.11                   i-ch1-cor002.api.p001.1drv.com
 157.55.109.232                 i-sn2-cor001.api.p001.1drv.com
 131.253.14.230                 i-sn2-cor002.api.p001.1drv.com
-13.107.246.69                  i1.services.social.microsoft.com
-13.107.213.69                  i1.services.social.microsoft.com
-2620:1ec:46::69                i1.services.social.microsoft.com
-2620:1ec:bdf::69               i1.services.social.microsoft.com
-20.66.37.117                   inference.location.live.net
+13.107.253.40                  i1.services.social.microsoft.com
+13.107.226.40                  i1.services.social.microsoft.com
+2620:1ec:29:1::40              i1.services.social.microsoft.com
+2620:1ec:48:1::40              i1.services.social.microsoft.com
+20.106.160.95                  inference.location.live.net
 # No resolution for lb1.www.ms.akadns.net lb1.www.ms.akadns.net
 204.79.197.203                 live.rads.msn.com
-104.254.151.68                 m.adnxs.com
-104.254.150.241                m.adnxs.com
-104.254.148.252                m.adnxs.com
-104.254.148.251                m.adnxs.com
-104.254.151.36                 m.adnxs.com
-104.254.151.69                 m.adnxs.com
-104.254.151.60                 m.adnxs.com
-13.89.179.11                   mobile.pipe.aria.microsoft.com
+68.67.179.87                   m.adnxs.com
+68.67.160.132                  m.adnxs.com
+68.67.179.166                  m.adnxs.com
+68.67.161.208                  m.adnxs.com
+68.67.178.10                   m.adnxs.com
+68.67.160.24                   m.adnxs.com
+68.67.181.211                  m.adnxs.com
+68.67.179.153                  m.adnxs.com
+68.67.160.117                  m.adnxs.com
+68.67.160.137                  m.adnxs.com
+68.67.160.26                   m.adnxs.com
+68.67.161.182                  m.adnxs.com
+104.208.16.89                  mobile.pipe.aria.microsoft.com
 204.79.197.197                 msedge.net
 # No resolution for msntest.serving-sys.com msntest.serving-sys.com
-52.182.143.212                 oca.telemetry.microsoft.com
+20.189.173.22                  oca.telemetry.microsoft.com
 13.248.169.48                  pre.footprintpredict.com
 76.223.54.146                  pre.footprintpredict.com
-131.253.33.203                 preview.msn.com
-104.123.71.81                  redir.metaservices.microsoft.com
-104.123.71.75                  redir.metaservices.microsoft.com
+204.79.197.203                 preview.msn.com
+104.97.85.58                   redir.metaservices.microsoft.com
+104.97.85.62                   redir.metaservices.microsoft.com
 65.52.100.91                   reports.wes.df.telemetry.microsoft.com
-104.254.148.252                secure.adnxs.com
-104.254.151.36                 secure.adnxs.com
-104.254.148.251                secure.adnxs.com
-104.254.150.241                secure.adnxs.com
-104.254.151.68                 secure.adnxs.com
-104.254.151.60                 secure.adnxs.com
-104.254.151.69                 secure.adnxs.com
-23.60.64.53                    secure.flashtalking.com
+68.67.160.26                   secure.adnxs.com
+68.67.160.117                  secure.adnxs.com
+68.67.179.155                  secure.adnxs.com
+68.67.178.10                   secure.adnxs.com
+68.67.160.137                  secure.adnxs.com
+68.67.179.153                  secure.adnxs.com
+68.67.161.208                  secure.adnxs.com
+68.67.160.114                  secure.adnxs.com
+68.67.160.132                  secure.adnxs.com
+68.67.161.182                  secure.adnxs.com
+68.67.160.184                  secure.adnxs.com
+68.67.179.87                   secure.adnxs.com
+23.48.8.52                     secure.flashtalking.com
 65.52.100.92                   services.wes.df.telemetry.microsoft.com
 52.191.228.216                 settings-sandbox.data.microsoft.com
 52.140.118.28                  settings-win.data.microsoft.com
 20.54.108.54                   settings-win-ppe.data.microsoft.com
-52.185.211.133                 settings.data.microsoft.com
+52.183.220.149                 settings.data.microsoft.com
 # No resolution for sn3301-c.1drv.com sn3301-c.1drv.com
 # No resolution for sn3301-e.1drv.com sn3301-e.1drv.com
 # No resolution for sn3301-g.1drv.com sn3301-g.1drv.com
-20.81.62.55                    spynet2.microsoft.com
-20.253.175.208                 spynetalt.microsoft.com
+20.253.207.205                 spynet2.microsoft.com
+4.255.78.159                   spynetalt.microsoft.com
 65.52.100.94                   sqm.df.telemetry.microsoft.com
 65.55.252.93                   sqm.telemetry.microsoft.com
 # No resolution for sqm.telemetry.microsoft.com.nsatc.net sqm.telemetry.microsoft.com.nsatc.net
-23.56.125.188                  storecatalogrevocation.storequality.microsoft.com
+23.66.221.233                  storecatalogrevocation.storequality.microsoft.com
 207.68.166.254                 survey.watson.microsoft.com
-23.44.73.57                    t0.ssl.ak.dynamic.tiles.virtualearth.net
-2600:1406:3a00:68d::1dc6       t0.ssl.ak.dynamic.tiles.virtualearth.net
-2600:1406:3a00:68a::1dc6       t0.ssl.ak.dynamic.tiles.virtualearth.net
-23.44.72.175                   t0.ssl.ak.tiles.virtualearth.net
-2600:1406:3a00:68d::10a6       t0.ssl.ak.tiles.virtualearth.net
-2600:1406:3a00:693::10a6       t0.ssl.ak.tiles.virtualearth.net
+23.195.93.9                    t0.ssl.ak.dynamic.tiles.virtualearth.net
+2600:141b:f000:ca6::1dc6       t0.ssl.ak.dynamic.tiles.virtualearth.net
+2600:141b:f000:ca7::1dc6       t0.ssl.ak.dynamic.tiles.virtualearth.net
+23.199.48.139                  t0.ssl.ak.tiles.virtualearth.net
+2600:141b:f000:c0a8::10a6      t0.ssl.ak.tiles.virtualearth.net
+2600:141b:f000:c084::10a6      t0.ssl.ak.tiles.virtualearth.net
+2600:141b:f000:c094::10a6      t0.ssl.ak.tiles.virtualearth.net
 20.118.138.130                 telecommand.telemetry.microsoft.com
 65.52.100.9                    telemetry.microsoft.com
 20.76.201.171                  telemetry.microsoft.com
 20.246.247.192                 telemetry.urs.microsoft.com
 40.77.226.13                   test.activity.windows.com
-40.119.46.46                   tsfe.trafficshaping.dsp.mp.microsoft.com
-52.182.143.208                 v10.vortex-win.data.microsoft.com
-52.2.68.165                    version.hybrid.api.here.com
+40.65.209.51                   tsfe.trafficshaping.dsp.mp.microsoft.com
+20.189.173.13                  v10.vortex-win.data.microsoft.com
 54.209.40.65                   version.hybrid.api.here.com
 52.7.241.157                   version.hybrid.api.here.com
-20.50.201.194                  vortex-sandbox.data.microsoft.com
-20.42.65.90                    vortex-win.data.microsoft.com
-20.42.73.27                    vortex.data.microsoft.com
+52.2.68.165                    version.hybrid.api.here.com
+20.42.72.130                   vortex-sandbox.data.microsoft.com
+20.189.173.4                   vortex-win.data.microsoft.com
+20.42.65.88                    vortex.data.microsoft.com
 104.208.16.93                  watson.microsoft.com
 65.52.100.11                   watson.ppe.telemetry.microsoft.com
-20.189.173.20                  watson.telemetry.microsoft.com
+20.189.173.21                  watson.telemetry.microsoft.com
 # No resolution for web.vortex.data.microsoft.com web.vortex.data.microsoft.com
 65.52.100.93                   wes.df.telemetry.microsoft.com
 52.241.128.114                 win10.ipv6.microsoft.com
 52.241.128.114                 win1710.ipv6.microsoft.com
 204.79.197.197                 www.msedge.net
-142.250.191.78                 translate.google.com
-2607:f8b0:4005:80e::200e       translate.google.com
-142.251.214.138                translate.googleapis.com
-2607:f8b0:4005:80e::200a       translate.googleapis.com
+142.251.167.138                translate.google.com
+142.251.167.113                translate.google.com
+142.251.167.139                translate.google.com
+142.251.167.100                translate.google.com
+142.251.167.102                translate.google.com
+142.251.167.101                translate.google.com
+2607:f8b0:4004:c1d::65         translate.google.com
+2607:f8b0:4004:c1d::8a         translate.google.com
+2607:f8b0:4004:c1d::66         translate.google.com
+2607:f8b0:4004:c1d::71         translate.google.com
+172.253.115.95                 translate.googleapis.com
+2607:f8b0:4004:c09::5f         translate.googleapis.com
 
-# Last update at 2024-02-08 00:18:27 (Beijing Time)
+# Last update at 2024-02-08 04:13:23 (Beijing Time)
 # Hosts End 
 
