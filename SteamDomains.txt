@@ -1,44 +1,44 @@
 # Hosts Start 
 # No resolution for kamaihd.net kamaihd.net
-96.17.79.166                   steamgames.com
-96.17.79.166                   steampowered.com
-104.98.68.175                  steamcommunity.com
-23.55.235.186                  cdn.steampowered.com
-23.54.161.98                   cdn.steampowered.com
-104.98.68.175                  api.steampowered.com
-23.54.161.98                   cdn.steampowered.com
-23.55.235.186                  cdn.steampowered.com
-104.98.68.175                  help.steampowered.com
+23.7.34.240                    steamgames.com
+23.7.34.240                    steampowered.com
+23.7.43.2                      steamcommunity.com
+23.46.238.226                  cdn.steampowered.com
+23.46.238.233                  cdn.steampowered.com
+23.7.43.2                      api.steampowered.com
+23.46.238.226                  cdn.steampowered.com
+23.46.238.233                  cdn.steampowered.com
+23.7.43.2                      help.steampowered.com
 198.185.159.144                steampoweredmedia.com
-198.185.159.145                steampoweredmedia.com
 198.49.23.145                  steampoweredmedia.com
 198.49.23.144                  steampoweredmedia.com
-23.48.99.73                    cdn.steamcommunity.com
-23.48.99.70                    cdn.steamcommunity.com
-23.48.99.78                    media.steampowered.com
-23.48.99.80                    media.steampowered.com
-23.54.41.174                   store.steampowered.com
-23.48.99.78                    cdn.akamai.steamstatic.com
-23.48.99.80                    cdn.akamai.steamstatic.com
-23.48.99.78                    cdn.store.steampowered.com
-23.48.99.86                    cdn.store.steampowered.com
+198.185.159.145                steampoweredmedia.com
+23.221.227.5                   cdn.steamcommunity.com
+23.221.227.28                  cdn.steamcommunity.com
+23.221.227.43                  media.steampowered.com
+23.221.227.32                  media.steampowered.com
+23.202.153.171                 store.steampowered.com
+23.46.238.209                  cdn.akamai.steamstatic.com
+23.46.238.177                  cdn.akamai.steamstatic.com
+23.221.227.33                  cdn.store.steampowered.com
+23.221.227.50                  cdn.store.steampowered.com
+112.47.17.2                    store.st.dl.bscstorage.net
+112.47.17.29                   store.st.dl.bscstorage.net
+112.47.17.28                   store.st.dl.bscstorage.net
+223.111.173.26                 store.st.dl.bscstorage.net
 112.47.17.26                   store.st.dl.bscstorage.net
 112.47.17.27                   store.st.dl.bscstorage.net
-112.47.17.2                    store.st.dl.bscstorage.net
 223.111.173.27                 store.st.dl.bscstorage.net
-112.47.17.28                   store.st.dl.bscstorage.net
-112.47.17.29                   store.st.dl.bscstorage.net
-223.111.173.26                 store.st.dl.bscstorage.net
-96.17.79.166                   storefront.steampowered.com
+23.7.34.240                    storefront.steampowered.com
 # No resolution for store.st.dl.pinyuncloud.com store.st.dl.pinyuncloud.com
 # No resolution for media.st.dl.pinyuncloud.com media.st.dl.pinyuncloud.com
-23.48.99.78                    store.akamai.steamstatic.com
-23.48.99.86                    store.akamai.steamstatic.com
-23.48.99.70                    steamcommunity-a.akamaihd.net
-23.48.99.73                    steamcommunity-a.akamaihd.net
-23.48.99.73                    community.akamai.steamstatic.com
-23.48.99.70                    community.akamai.steamstatic.com
+23.221.227.50                  store.akamai.steamstatic.com
+23.221.227.33                  store.akamai.steamstatic.com
+23.221.227.28                  steamcommunity-a.akamaihd.net
+23.221.227.5                   steamcommunity-a.akamaihd.net
+23.221.227.5                   community.akamai.steamstatic.com
+23.221.227.28                  community.akamai.steamstatic.com
 
-# Last update at 2024-04-07 04:15:35 (Beijing Time)
+# Last update at 2024-04-07 09:06:51 (Beijing Time)
 # Hosts End 
 
