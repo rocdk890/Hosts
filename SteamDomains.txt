@@ -6,17 +6,17 @@
 23.220.246.183                 cdn.steampowered.com
 23.220.246.157                 cdn.steampowered.com
 23.210.138.105                 api.steampowered.com
-23.220.246.157                 cdn.steampowered.com
 23.220.246.183                 cdn.steampowered.com
+23.220.246.157                 cdn.steampowered.com
 23.210.138.105                 help.steampowered.com
-198.185.159.145                steampoweredmedia.com
 198.49.23.144                  steampoweredmedia.com
 198.49.23.145                  steampoweredmedia.com
+198.185.159.145                steampoweredmedia.com
 198.185.159.144                steampoweredmedia.com
 23.200.156.207                 cdn.steamcommunity.com
 23.200.156.213                 cdn.steamcommunity.com
-23.200.156.215                 media.steampowered.com
 23.200.156.211                 media.steampowered.com
+23.200.156.215                 media.steampowered.com
 23.78.8.100                    store.steampowered.com
 23.200.156.211                 cdn.akamai.steamstatic.com
 23.200.156.215                 cdn.akamai.steamstatic.com
@@ -33,6 +33,6 @@
 23.200.156.213                 community.akamai.steamstatic.com
 23.200.156.207                 community.akamai.steamstatic.com
 
-# Last update at 2025-05-20 09:42:44 (Beijing Time)
+# Last update at 2025-05-20 12:25:55 (Beijing Time)
 # Hosts End 
 
