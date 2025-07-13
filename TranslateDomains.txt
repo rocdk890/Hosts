@@ -1,17 +1,9 @@
 # Hosts Start 
-142.250.152.102                translate.google.com
-142.250.152.113                translate.google.com
-142.250.152.139                translate.google.com
-142.250.152.138                translate.google.com
-142.250.152.100                translate.google.com
-142.250.152.101                translate.google.com
-2607:f8b0:4001:c56::65         translate.google.com
-2607:f8b0:4001:c56::8b         translate.google.com
-2607:f8b0:4001:c56::66         translate.google.com
-2607:f8b0:4001:c56::8a         translate.google.com
-142.250.152.95                 translate.googleapis.com
-2607:f8b0:4001:c66::5f         translate.googleapis.com
+142.250.72.174                 translate.google.com
+2607:f8b0:4007:819::200e       translate.google.com
+142.250.176.10                 translate.googleapis.com
+2607:f8b0:4007:818::200a       translate.googleapis.com
 
-# Last update at 2025-07-13 04:23:01 (Beijing Time)
+# Last update at 2025-07-13 09:58:15 (Beijing Time)
 # Hosts End 
 
