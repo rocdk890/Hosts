@@ -16,12 +16,12 @@
 # No resolution for #substrate.office.com #substrate.office.com
 # No resolution for #storage.live.com #storage.live.com
 # No resolution for #api.onedrive.com #api.onedrive.com
-23.96.180.189                  arc.msn.com
+20.96.153.111                  arc.msn.com
 # No resolution for #skydrive.wns.windows.com #skydrive.wns.windows.com
 # No resolution for #onedrive.live.com #onedrive.live.com
 # No resolution for #config.teams.microsoft.com #config.teams.microsoft.com
-52.44.244.98                   feedback.microsoft-hohm.com
 54.165.131.183                 feedback.microsoft-hohm.com
+52.44.244.98                   feedback.microsoft-hohm.com
 2600:1f18:4ae:c608:83f8:2f9c:4a61:7b6a feedback.microsoft-hohm.com
 2600:1f18:4ae:c607:d1d9:565f:b122:bfdb feedback.microsoft-hohm.com
 204.79.197.200                 search.msn.com
@@ -34,16 +34,16 @@
 # No resolution for ads1.msn.com ads1.msn.com
 # No resolution for b.ads1.msn.com b.ads1.msn.com
 # No resolution for b.rad.msn.com b.rad.msn.com
-13.107.246.51                  c.msn.com
 13.107.213.51                  c.msn.com
+13.107.246.51                  c.msn.com
 2620:1ec:bdf::51               c.msn.com
 2620:1ec:46::51                c.msn.com
 # No resolution for corpext.msitadfs.glbdns2.microsoft.com corpext.msitadfs.glbdns2.microsoft.com
 204.79.197.203                 flex.msn.com
 13.107.213.51                  g.msn.com
 13.107.246.51                  g.msn.com
-2620:1ec:46::51                g.msn.com
 2620:1ec:bdf::51               g.msn.com
+2620:1ec:46::51                g.msn.com
 # No resolution for h1.msn.com h1.msn.com
 204.79.197.203                 live.rads.msn.com
 204.79.197.203                 preview.msn.com
@@ -52,89 +52,97 @@
 # No resolution for settings.data.glbdns2.microsoft.com settings.data.glbdns2.microsoft.com
 207.68.166.254                 survey.watson.microsoft.com
 135.233.45.220                 watson.microsoft.com
-104.40.82.182                  ars.smartscreen.microsoft.com
+52.159.108.190                 ars.smartscreen.microsoft.com
 # No resolution for az361816.vo.msecnd.net az361816.vo.msecnd.net
 # No resolution for az512334.vo.msecnd.net az512334.vo.msecnd.net
 23.43.14.145                   blob.weather.microsoft.com
 34.160.176.124                 candycrushsoda.king.com
 23.43.11.133                   cdn.content.prod.cms.msn.com
-2600:1407:7800:2a9::29a7       cdn.content.prod.cms.msn.com
-2600:1407:7800:29a::29a7       cdn.content.prod.cms.msn.com
+2600:1407:1800:3a7::29a7       cdn.content.prod.cms.msn.com
+2600:1407:1800:3a6::29a7       cdn.content.prod.cms.msn.com
 # No resolution for #cdn.onenote.net #cdn.onenote.net
-23.205.97.64                   choice.microsoft.com
+23.11.197.163                  choice.microsoft.com
 # No resolution for choice.microsoft.com.nsatc.net choice.microsoft.com.nsatc.net
-172.183.7.194                  client.wns.windows.com
+172.183.7.193                  client.wns.windows.com
 2603:1030:608:7::401           client.wns.windows.com
-4.151.235.213                  client-s.gateway.messenger.live.com
-23.62.33.9                     clientconfig.passport.net
-23.62.33.36                    clientconfig.passport.net
-2600:1407:3c00:1879::17d2:f49a clientconfig.passport.net
-2600:1407:3c00:1879::17d2:f485 clientconfig.passport.net
+13.83.65.43                    client-s.gateway.messenger.live.com
+23.62.33.24                    clientconfig.passport.net
+23.62.33.37                    clientconfig.passport.net
+2600:1407:1800::17df:9591      clientconfig.passport.net
+2600:1407:1800::17df:95c3      clientconfig.passport.net
 40.122.167.99                  device.auth.xboxlive.com
 # No resolution for dmd.metaservices.microsoft.com dmd.metaservices.microsoft.com
 131.107.255.255                dns.msftncsi.com
 fd3e:4f5a:5b81::1              dns.msftncsi.com
-54.165.131.183                 feedback.microsoft-hohm.com
 52.44.244.98                   feedback.microsoft-hohm.com
-2600:1f18:4ae:c607:d1d9:565f:b122:bfdb feedback.microsoft-hohm.com
+54.165.131.183                 feedback.microsoft-hohm.com
 2600:1f18:4ae:c608:83f8:2f9c:4a61:7b6a feedback.microsoft-hohm.com
+2600:1f18:4ae:c607:d1d9:565f:b122:bfdb feedback.microsoft-hohm.com
 157.55.129.21                  feedback.search.microsoft.com
 134.170.188.248                feedback.windows.com
-184.25.59.79                   img-s-msn-com.akamaized.net
-184.25.59.75                   img-s-msn-com.akamaized.net
-2600:1407:e800:25::17dc:ce86   img-s-msn-com.akamaized.net
-2600:1407:e800:25::17dc:ce85   img-s-msn-com.akamaized.net
-4.155.94.229                   licensing.mp.microsoft.com
+184.25.59.68                   img-s-msn-com.akamaized.net
+184.25.59.87                   img-s-msn-com.akamaized.net
+2600:1407:3c00:14::b819:77aa   img-s-msn-com.akamaized.net
+2600:1407:3c00:14::b819:77bb   img-s-msn-com.akamaized.net
+2600:1407:3c00:14::b819:77a8   img-s-msn-com.akamaized.net
+2600:1407:3c00:14::b819:7786   img-s-msn-com.akamaized.net
+2600:1407:3c00:14::b819:77bc   img-s-msn-com.akamaized.net
+20.3.1.41                      licensing.mp.microsoft.com
 # No resolution for #officeclient.microsoft.com #officeclient.microsoft.com
-23.216.5.221                   oneclient.sfx.ms
-23.216.5.212                   oneclient.sfx.ms
-23.216.5.201                   oneclient.sfx.ms
-23.216.5.211                   oneclient.sfx.ms
-23.216.5.208                   oneclient.sfx.ms
-23.216.5.218                   oneclient.sfx.ms
-23.216.5.219                   oneclient.sfx.ms
-2600:1407:3c00:1868::17dc:9014 oneclient.sfx.ms
-2600:1407:3c00:1868::17dc:9013 oneclient.sfx.ms
+23.220.206.64                  oneclient.sfx.ms
+23.220.206.40                  oneclient.sfx.ms
+23.220.206.54                  oneclient.sfx.ms
+23.220.206.75                  oneclient.sfx.ms
+23.220.206.52                  oneclient.sfx.ms
+23.220.206.45                  oneclient.sfx.ms
+23.220.206.49                  oneclient.sfx.ms
+23.220.206.28                  oneclient.sfx.ms
+23.220.206.33                  oneclient.sfx.ms
+2600:1407:3c00:12::b819:719b   oneclient.sfx.ms
+2600:1407:3c00:12::b819:71b9   oneclient.sfx.ms
+2600:1407:3c00:12::b819:719e   oneclient.sfx.ms
+2600:1407:3c00:12::b819:71ac   oneclient.sfx.ms
+2600:1407:3c00:12::b819:71a1   oneclient.sfx.ms
 # No resolution for pti.store.microsoft.com pti.store.microsoft.com
 23.65.18.179                   query.prod.cms.rt.microsoft.com
-2600:1407:1800:6a7::2b3e       query.prod.cms.rt.microsoft.com
-2600:1407:1800:69c::2b3e       query.prod.cms.rt.microsoft.com
-20.54.232.160                  register.cdpcs.microsoft.com
-142.250.191.134                s0.2mdn.net
-2607:f8b0:4009:807::2006       s0.2mdn.net
-13.107.21.200                  search.msn.com
+2600:1407:1800:390::2b3e       query.prod.cms.rt.microsoft.com
+2600:1407:1800:39b::2b3e       query.prod.cms.rt.microsoft.com
+13.68.233.9                    register.cdpcs.microsoft.com
+142.251.32.6                   s0.2mdn.net
+2607:f8b0:4009:81a::2006       s0.2mdn.net
 204.79.197.200                 search.msn.com
-23.205.96.8                    settings-ssl.xboxlive.com
-2600:1407:1800:697::57         settings-ssl.xboxlive.com
-2600:1407:1800:688::57         settings-ssl.xboxlive.com
-142.251.32.6                   static.2mdn.net
-2607:f8b0:4009:803::2006       static.2mdn.net
-23.205.97.169                  store-images.s-microsoft.com
-2600:1407:1800:69f::3114       store-images.s-microsoft.com
-2600:1407:1800:6ab::3114       store-images.s-microsoft.com
+13.107.21.200                  search.msn.com
+23.11.196.9                    settings-ssl.xboxlive.com
+2600:1407:1800:3ab::57         settings-ssl.xboxlive.com
+2600:1407:1800:39f::57         settings-ssl.xboxlive.com
+142.250.191.134                static.2mdn.net
+2607:f8b0:4009:818::2006       static.2mdn.net
+23.11.198.55                   store-images.s-microsoft.com
+2600:1407:1800:3aa::3114       store-images.s-microsoft.com
+2600:1407:1800:392::3114       store-images.s-microsoft.com
 23.14.58.148                   storeedgefd.dsx.mp.microsoft.com
-2600:1407:7800:2a8::4106       storeedgefd.dsx.mp.microsoft.com
-2600:1407:7800:2ae::4106       storeedgefd.dsx.mp.microsoft.com
-13.107.246.51                  support.microsoft.com
+2600:1407:1800:3a2::4106       storeedgefd.dsx.mp.microsoft.com
+2600:1407:1800:38d::4106       storeedgefd.dsx.mp.microsoft.com
 13.107.213.51                  support.microsoft.com
+13.107.246.51                  support.microsoft.com
 2620:1ec:46::51                support.microsoft.com
 2620:1ec:bdf::51               support.microsoft.com
-23.63.163.193                  tile-service.weather.microsoft.com
+23.64.255.117                  tile-service.weather.microsoft.com
 168.61.215.74                  time.windows.com
 207.46.223.94                  tk2.plt.msn.com
-13.91.222.61                   urs.smartscreen.microsoft.com
-48.211.71.203                  wdcp.microsoft.com
-48.211.71.198                  wdcpalt.microsoft.com
+20.25.227.174                  urs.smartscreen.microsoft.com
+48.211.71.194                  wdcp.microsoft.com
+48.211.71.194                  wdcpalt.microsoft.com
 204.79.197.200                 win10-trt.msedge.net
 13.107.21.200                  win10-trt.msedge.net
 2620:1ec:c11::200              win10-trt.msedge.net
 23.198.73.13                   wscont.apps.microsoft.com
-184.25.59.87                   www.msftconnecttest.com
-184.25.59.78                   www.msftconnecttest.com
-184.25.59.78                   www.msftncsi.com
-184.25.59.87                   www.msftncsi.com
-204.79.197.200                 a-0001.a-msedge.net
+184.25.59.69                   www.msftconnecttest.com
+184.25.59.89                   www.msftconnecttest.com
+184.25.59.89                   www.msftncsi.com
+184.25.59.69                   www.msftncsi.com
 13.107.21.200                  a-0001.a-msedge.net
+204.79.197.200                 a-0001.a-msedge.net
 13.107.22.200                  a-0001.dc-msedge.net
 131.253.33.200                 a-0001.dc-msedge.net
 204.79.197.201                 a-0002.a-msedge.net
@@ -179,16 +187,16 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2620:1ec:5::50                 c-0001.dc-msedge.net
 13.107.246.51                  cache.datamart.windows.com
 13.107.213.51                  cache.datamart.windows.com
-2620:1ec:46::51                cache.datamart.windows.com
 2620:1ec:bdf::51               cache.datamart.windows.com
+2620:1ec:46::51                cache.datamart.windows.com
 # No resolution for cds1204.lon.llnw.net cds1204.lon.llnw.net
 # No resolution for cds1293.lon.llnw.net cds1293.lon.llnw.net
 103.224.212.213                cds26.ams9.msecn.net
 # No resolution for cds425.lcy.llnw.net cds425.lcy.llnw.net
 # No resolution for cds459.lcy.llnw.net cds459.lcy.llnw.net
 # No resolution for cds494.lcy.llnw.net cds494.lcy.llnw.net
-13.107.213.51                  continuum.dds.microsoft.com
 13.107.246.51                  continuum.dds.microsoft.com
+13.107.213.51                  continuum.dds.microsoft.com
 2620:1ec:46::51                continuum.dds.microsoft.com
 2620:1ec:bdf::51               continuum.dds.microsoft.com
 # No resolution for corpext.msitadfs.glbdns2.microsoft.com corpext.msitadfs.glbdns2.microsoft.com
@@ -196,7 +204,7 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2606:2800:11f:179a:1972:2405:35b:459 cs1.wpc.v0cdn.net
 # No resolution for db3aqu.atdmt.com db3aqu.atdmt.com
 # No resolution for db3wns2011111.wns.windows.com db3wns2011111.wns.windows.com
-172.183.7.194                  db5.wns.windows.com
+172.183.7.193                  db5.wns.windows.com
 2603:1030:608:7::401           db5.wns.windows.com
 # No resolution for db5sch101100122.wns.windows.com db5sch101100122.wns.windows.com
 # No resolution for db5sch101100127.wns.windows.com db5sch101100127.wns.windows.com
@@ -447,19 +455,19 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 134.170.52.151                 diagnostics.support.microsoft.com
 # No resolution for ec.atdmt.com ec.atdmt.com
 23.44.76.168                   ecn.dev.virtualearth.net
-2600:1407:3c00:1680::1011      ecn.dev.virtualearth.net
-2600:1407:3c00:1684::1011      ecn.dev.virtualearth.net
-52.178.17.234                  eu.vortex.data.microsoft.com
+2600:1407:1800:3a4::1011       ecn.dev.virtualearth.net
+2600:1407:1800:38e::1011       ecn.dev.virtualearth.net
+20.50.73.4                     eu.vortex.data.microsoft.com
 204.79.197.203                 flex.msn.com
-23.63.168.11                   fs.microsoft.com
-2600:1407:3c00:1683::40dc      fs.microsoft.com
-2600:1407:3c00:168d::40dc      fs.microsoft.com
-13.107.246.51                  g.msn.com
+23.2.94.216                    fs.microsoft.com
+2600:1407:1800:38d::40dc       fs.microsoft.com
+2600:1407:1800:38f::40dc       fs.microsoft.com
 13.107.213.51                  g.msn.com
+13.107.246.51                  g.msn.com
 2620:1ec:46::51                g.msn.com
 2620:1ec:bdf::51               g.msn.com
-72.145.35.105                  geo-prod.do.dsp.mp.microsoft.com
-23.198.66.151                  geover-prod.do.dsp.mp.microsoft.com
+72.153.5.96                    geo-prod.do.dsp.mp.microsoft.com
+23.62.67.177                   geover-prod.do.dsp.mp.microsoft.com
 # No resolution for h1.msn.com h1.msn.com
 # No resolution for h2.msn.com h2.msn.com
 # No resolution for i-bl6p-cor001.api.p001.1drv.com i-bl6p-cor001.api.p001.1drv.com
@@ -476,89 +484,90 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 172.176.48.21                  inference.location.live.net
 # No resolution for lb1.www.ms.akadns.net lb1.www.ms.akadns.net
 204.79.197.203                 live.rads.msn.com
-68.67.160.75                   m.adnxs.com
-68.67.161.208                  m.adnxs.com
-68.67.181.211                  m.adnxs.com
-68.67.161.182                  m.adnxs.com
-68.67.181.102                  m.adnxs.com
 68.67.181.231                  m.adnxs.com
+68.67.179.89                   m.adnxs.com
 68.67.181.248                  m.adnxs.com
-68.67.160.137                  m.adnxs.com
+68.67.160.114                  m.adnxs.com
+68.67.160.75                   m.adnxs.com
+68.67.179.153                  m.adnxs.com
+68.67.179.87                   m.adnxs.com
+68.67.179.164                  m.adnxs.com
 68.67.160.186                  m.adnxs.com
-68.67.178.10                   m.adnxs.com
-68.67.160.184                  m.adnxs.com
-68.67.179.155                  m.adnxs.com
-20.42.65.88                    mobile.pipe.aria.microsoft.com
+68.67.160.137                  m.adnxs.com
+68.67.160.117                  m.adnxs.com
+68.67.161.182                  m.adnxs.com
+13.89.179.9                    mobile.pipe.aria.microsoft.com
 204.79.197.197                 msedge.net
 # No resolution for msntest.serving-sys.com msntest.serving-sys.com
-135.234.160.246                oca.telemetry.microsoft.com
-76.223.54.146                  pre.footprintpredict.com
+172.178.240.163                oca.telemetry.microsoft.com
 13.248.169.48                  pre.footprintpredict.com
+76.223.54.146                  pre.footprintpredict.com
 204.79.197.203                 preview.msn.com
 184.25.59.68                   redir.metaservices.microsoft.com
 184.25.59.73                   redir.metaservices.microsoft.com
 65.52.100.91                   reports.wes.df.telemetry.microsoft.com
-68.67.161.208                  secure.adnxs.com
-68.67.160.117                  secure.adnxs.com
-68.67.178.10                   secure.adnxs.com
-68.67.179.89                   secure.adnxs.com
-68.67.160.76                   secure.adnxs.com
-68.67.181.102                  secure.adnxs.com
-68.67.160.114                  secure.adnxs.com
-68.67.160.132                  secure.adnxs.com
 68.67.160.137                  secure.adnxs.com
-68.67.160.184                  secure.adnxs.com
-68.67.181.211                  secure.adnxs.com
+68.67.179.164                  secure.adnxs.com
+68.67.161.208                  secure.adnxs.com
+68.67.179.113                  secure.adnxs.com
 68.67.160.26                   secure.adnxs.com
+68.67.160.186                  secure.adnxs.com
+68.67.179.155                  secure.adnxs.com
+68.67.178.10                   secure.adnxs.com
+68.67.160.114                  secure.adnxs.com
+68.67.179.153                  secure.adnxs.com
+68.67.160.76                   secure.adnxs.com
+68.67.160.184                  secure.adnxs.com
 23.215.11.231                  secure.flashtalking.com
 23.215.11.228                  secure.flashtalking.com
 65.52.100.92                   services.wes.df.telemetry.microsoft.com
 128.85.219.1                   settings-sandbox.data.microsoft.com
 52.167.249.196                 settings-win.data.microsoft.com
 20.54.108.54                   settings-win-ppe.data.microsoft.com
-20.106.86.13                   settings.data.microsoft.com
+52.167.249.196                 settings.data.microsoft.com
 # No resolution for sn3301-c.1drv.com sn3301-c.1drv.com
 # No resolution for sn3301-e.1drv.com sn3301-e.1drv.com
 # No resolution for sn3301-g.1drv.com sn3301-g.1drv.com
-172.178.160.17                 spynet2.microsoft.com
-172.178.160.26                 spynetalt.microsoft.com
+48.211.71.194                  spynet2.microsoft.com
+48.211.71.194                  spynetalt.microsoft.com
 65.52.100.94                   sqm.df.telemetry.microsoft.com
 65.55.252.93                   sqm.telemetry.microsoft.com
 # No resolution for sqm.telemetry.microsoft.com.nsatc.net sqm.telemetry.microsoft.com.nsatc.net
 13.107.246.51                  storecatalogrevocation.storequality.microsoft.com
 13.107.213.51                  storecatalogrevocation.storequality.microsoft.com
-2620:1ec:bdf::51               storecatalogrevocation.storequality.microsoft.com
 2620:1ec:46::51                storecatalogrevocation.storequality.microsoft.com
+2620:1ec:bdf::51               storecatalogrevocation.storequality.microsoft.com
 207.68.166.254                 survey.watson.microsoft.com
-184.25.59.88                   t0.ssl.ak.dynamic.tiles.virtualearth.net
-2600:1407:3c00:c::1740:72cc    t0.ssl.ak.dynamic.tiles.virtualearth.net
-2600:1407:3c00:c::1740:72cf    t0.ssl.ak.dynamic.tiles.virtualearth.net
-184.25.59.85                   t0.ssl.ak.tiles.virtualearth.net
+184.25.59.85                   t0.ssl.ak.dynamic.tiles.virtualearth.net
+184.25.59.90                   t0.ssl.ak.dynamic.tiles.virtualearth.net
+2600:1407:3c00:14::b819:77ad   t0.ssl.ak.dynamic.tiles.virtualearth.net
+2600:1407:3c00:14::b819:7798   t0.ssl.ak.dynamic.tiles.virtualearth.net
 184.25.59.90                   t0.ssl.ak.tiles.virtualearth.net
-2600:1407:3c00:c::1740:72cf    t0.ssl.ak.tiles.virtualearth.net
-2600:1407:3c00:c::1740:72cc    t0.ssl.ak.tiles.virtualearth.net
+184.25.59.85                   t0.ssl.ak.tiles.virtualearth.net
+2600:1407:3c00:14::b819:77ad   t0.ssl.ak.tiles.virtualearth.net
+2600:1407:3c00:14::b819:7798   t0.ssl.ak.tiles.virtualearth.net
 20.118.138.130                 telecommand.telemetry.microsoft.com
 20.76.201.171                  telemetry.microsoft.com
 65.52.100.9                    telemetry.microsoft.com
-172.183.192.109                telemetry.urs.microsoft.com
+4.249.200.148                  telemetry.urs.microsoft.com
 40.77.226.13                   test.activity.windows.com
 72.153.5.112                   tsfe.trafficshaping.dsp.mp.microsoft.com
-13.89.179.14                   v10.vortex-win.data.microsoft.com
-3.90.123.232                   version.hybrid.api.here.com
+104.208.16.95                  v10.vortex-win.data.microsoft.com
 52.45.90.25                    version.hybrid.api.here.com
 3.208.137.156                  version.hybrid.api.here.com
-20.50.201.194                  vortex-sandbox.data.microsoft.com
-20.189.173.10                  vortex-win.data.microsoft.com
-13.89.179.13                   vortex.data.microsoft.com
+3.90.123.232                   version.hybrid.api.here.com
+20.42.72.130                   vortex-sandbox.data.microsoft.com
+52.178.17.3                    vortex-win.data.microsoft.com
+20.42.73.31                    vortex.data.microsoft.com
 135.233.45.220                 watson.microsoft.com
 65.52.100.11                   watson.ppe.telemetry.microsoft.com
-135.234.160.244                watson.telemetry.microsoft.com
+172.178.240.162                watson.telemetry.microsoft.com
 # No resolution for web.vortex.data.microsoft.com web.vortex.data.microsoft.com
 65.52.100.93                   wes.df.telemetry.microsoft.com
 52.241.128.114                 win10.ipv6.microsoft.com
 52.241.128.114                 win1710.ipv6.microsoft.com
 204.79.197.197                 www.msedge.net
 
-# Last update at 2025-09-26 09:26:30 (Beijing Time)
+# Last update at 2025-09-26 12:24:35 (Beijing Time)
 # Hosts End 
 
