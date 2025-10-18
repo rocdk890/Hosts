@@ -3,15 +3,15 @@
 142.251.121.139                translate.google.com
 142.251.121.138                translate.google.com
 142.251.121.101                translate.google.com
-142.251.121.100                translate.google.com
 142.251.121.113                translate.google.com
-2607:f8b0:4023:80b::8b         translate.google.com
-2607:f8b0:4023:80b::64         translate.google.com
-2607:f8b0:4023:80b::8a         translate.google.com
+142.251.121.100                translate.google.com
 2607:f8b0:4023:80b::66         translate.google.com
-172.217.15.234                 translate.googleapis.com
-2607:f8b0:4023:80b::5f         translate.googleapis.com
+2607:f8b0:4023:80b::8b         translate.google.com
+2607:f8b0:4023:80b::8a         translate.google.com
+2607:f8b0:4023:80b::64         translate.google.com
+192.178.142.95                 translate.googleapis.com
+2607:f8b0:4025:815::200a       translate.googleapis.com
 
-# Last update at 2025-10-19 00:23:24 (Beijing Time)
+# Last update at 2025-10-19 04:20:57 (Beijing Time)
 # Hosts End 
 
