@@ -1,17 +1,17 @@
 # Hosts Start 
-74.125.126.139                 translate.google.com
-74.125.126.113                 translate.google.com
-74.125.126.138                 translate.google.com
-74.125.126.101                 translate.google.com
-74.125.126.100                 translate.google.com
-74.125.126.102                 translate.google.com
-2607:f8b0:4001:c1d::66         translate.google.com
-2607:f8b0:4001:c1d::71         translate.google.com
-2607:f8b0:4001:c1d::8a         translate.google.com
-2607:f8b0:4001:c1d::65         translate.google.com
-172.217.214.95                 translate.googleapis.com
-2607:f8b0:4001:c6e::5f         translate.googleapis.com
+172.253.63.101                 translate.google.com
+172.253.63.139                 translate.google.com
+172.253.63.113                 translate.google.com
+172.253.63.100                 translate.google.com
+172.253.63.102                 translate.google.com
+172.253.63.138                 translate.google.com
+2607:f8b0:4004:c08::71         translate.google.com
+2607:f8b0:4004:c08::64         translate.google.com
+2607:f8b0:4004:c08::66         translate.google.com
+2607:f8b0:4004:c08::8b         translate.google.com
+172.253.62.95                  translate.googleapis.com
+2607:f8b0:4004:c08::5f         translate.googleapis.com
 
-# Last update at 2026-01-07 12:43:09 (Beijing Time)
+# Last update at 2026-01-07 16:34:06 (Beijing Time)
 # Hosts End 
 
