@@ -3,11 +3,11 @@
 23.63.255.176                  steamgames.com
 23.63.255.176                  steampowered.com
 23.32.110.22                   steamcommunity.com
-23.62.54.17                    cdn.steampowered.com
 23.62.54.26                    cdn.steampowered.com
+23.62.54.17                    cdn.steampowered.com
 23.32.110.22                   api.steampowered.com
-23.62.54.17                    cdn.steampowered.com
 23.62.54.26                    cdn.steampowered.com
+23.62.54.17                    cdn.steampowered.com
 23.32.110.22                   help.steampowered.com
 # No resolution for steampoweredmedia.com steampoweredmedia.com
 23.209.84.7                    cdn.steamcommunity.com
@@ -17,8 +17,8 @@
 23.62.177.63                   store.steampowered.com
 23.209.84.70                   cdn.akamai.steamstatic.com
 23.209.84.71                   cdn.akamai.steamstatic.com
-23.209.84.17                   cdn.store.steampowered.com
 23.209.84.37                   cdn.store.steampowered.com
+23.209.84.17                   cdn.store.steampowered.com
 36.156.185.51                  store.st.dl.bscstorage.net
 36.156.185.52                  store.st.dl.bscstorage.net
 23.63.255.176                  storefront.steampowered.com
@@ -26,11 +26,11 @@
 156.250.64.174                 media.st.dl.pinyuncloud.com
 23.209.84.37                   store.akamai.steamstatic.com
 23.209.84.17                   store.akamai.steamstatic.com
-23.209.84.7                    steamcommunity-a.akamaihd.net
 23.209.84.74                   steamcommunity-a.akamaihd.net
+23.209.84.7                    steamcommunity-a.akamaihd.net
 23.209.84.7                    community.akamai.steamstatic.com
 23.209.84.74                   community.akamai.steamstatic.com
 
-# Last update at 2026-03-02 00:31:17 (Beijing Time)
+# Last update at 2026-03-02 04:30:27 (Beijing Time)
 # Hosts End 
 
