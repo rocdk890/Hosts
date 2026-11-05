@@ -1,30 +1,26 @@
 # Hosts Start 
 # No resolution for kamaihd.net kamaihd.net
-23.59.109.20                   steamgames.com
-23.59.109.20                   steampowered.com
-173.223.0.227                  steamcommunity.com
-23.220.161.9                   cdn.steampowered.com
-23.220.161.18                  cdn.steampowered.com
-23.223.240.173                 api.steampowered.com
-23.223.240.174                 api.steampowered.com
-23.223.240.209                 api.steampowered.com
-23.223.240.193                 api.steampowered.com
-23.223.240.189                 api.steampowered.com
-23.223.240.206                 api.steampowered.com
-23.223.240.183                 api.steampowered.com
-23.220.161.9                   cdn.steampowered.com
-23.220.161.18                  cdn.steampowered.com
-23.204.167.126                 help.steampowered.com
+23.76.38.100                   steamgames.com
+23.76.38.100                   steampowered.com
+23.222.245.18                  steamcommunity.com
+23.15.3.30                     cdn.steampowered.com
+23.15.3.25                     cdn.steampowered.com
+23.0.162.142                   api.steampowered.com
+23.0.162.141                   api.steampowered.com
+23.15.3.30                     cdn.steampowered.com
+23.15.3.25                     cdn.steampowered.com
+173.223.60.106                 help.steampowered.com
 # No resolution for steampoweredmedia.com steampoweredmedia.com
-23.36.217.177                  cdn.steamcommunity.com
-23.36.217.132                  cdn.steamcommunity.com
-23.36.217.168                  media.steampowered.com
-23.36.217.178                  media.steampowered.com
-173.223.2.56                   store.steampowered.com
-23.36.217.178                  cdn.akamai.steamstatic.com
-23.36.217.168                  cdn.akamai.steamstatic.com
-23.36.217.159                  cdn.store.steampowered.com
-23.36.217.151                  cdn.store.steampowered.com
+23.62.61.134                   cdn.steamcommunity.com
+23.62.61.140                   cdn.steamcommunity.com
+23.62.61.145                   media.steampowered.com
+23.62.61.133                   media.steampowered.com
+23.222.246.93                  store.steampowered.com
+23.62.61.133                   cdn.akamai.steamstatic.com
+23.62.61.145                   cdn.akamai.steamstatic.com
+23.62.61.135                   cdn.store.steampowered.com
+23.62.61.142                   cdn.store.steampowered.com
+36.156.81.195                  store.st.dl.bscstorage.net
 36.156.81.198                  store.st.dl.bscstorage.net
 36.156.81.201                  store.st.dl.bscstorage.net
 36.156.81.207                  store.st.dl.bscstorage.net
@@ -33,17 +29,16 @@
 36.156.81.205                  store.st.dl.bscstorage.net
 36.156.81.200                  store.st.dl.bscstorage.net
 36.156.81.209                  store.st.dl.bscstorage.net
-36.156.81.195                  store.st.dl.bscstorage.net
-23.59.109.20                   storefront.steampowered.com
+23.76.38.100                   storefront.steampowered.com
 # No resolution for store.st.dl.pinyuncloud.com store.st.dl.pinyuncloud.com
 # No resolution for media.st.dl.pinyuncloud.com media.st.dl.pinyuncloud.com
-23.36.217.151                  store.akamai.steamstatic.com
-23.36.217.159                  store.akamai.steamstatic.com
-23.36.217.132                  steamcommunity-a.akamaihd.net
-23.36.217.177                  steamcommunity-a.akamaihd.net
-23.36.217.177                  community.akamai.steamstatic.com
-23.36.217.132                  community.akamai.steamstatic.com
+23.62.61.142                   store.akamai.steamstatic.com
+23.62.61.135                   store.akamai.steamstatic.com
+23.62.61.140                   steamcommunity-a.akamaihd.net
+23.62.61.134                   steamcommunity-a.akamaihd.net
+23.62.61.134                   community.akamai.steamstatic.com
+23.62.61.140                   community.akamai.steamstatic.com
 
-# Last update at 2026-11-05 08:47:11 (Beijing Time)
+# Last update at 2026-11-05 19:57:56 (Beijing Time)
 # Hosts End 
 
