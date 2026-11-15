@@ -1,30 +1,27 @@
 # Hosts Start 
 # No resolution for kamaihd.net kamaihd.net
-184.31.66.9                    steamgames.com
-2.23.136.4                     steampowered.com
-23.222.197.18                  steamcommunity.com
-23.199.55.8                    cdn.steampowered.com
-23.199.55.50                   cdn.steampowered.com
-23.198.214.74                  api.steampowered.com
-23.198.214.82                  api.steampowered.com
-23.198.214.72                  api.steampowered.com
-23.198.214.78                  api.steampowered.com
-23.198.214.76                  api.steampowered.com
-23.199.55.8                    cdn.steampowered.com
-23.199.55.50                   cdn.steampowered.com
-69.192.25.144                  help.steampowered.com
+23.54.38.48                    steamgames.com
+23.54.38.48                    steampowered.com
+184.30.152.223                 steamcommunity.com
+23.219.78.68                   cdn.steampowered.com
+23.219.78.74                   cdn.steampowered.com
+184.30.150.75                  api.steampowered.com
+184.30.150.73                  api.steampowered.com
+184.30.150.85                  api.steampowered.com
+184.30.150.78                  api.steampowered.com
+23.219.78.74                   cdn.steampowered.com
+23.219.78.68                   cdn.steampowered.com
+95.101.163.109                 help.steampowered.com
 # No resolution for steampoweredmedia.com steampoweredmedia.com
-104.97.85.180                  cdn.steamcommunity.com
-104.97.85.183                  cdn.steamcommunity.com
-23.15.3.90                     media.steampowered.com
-23.15.3.93                     media.steampowered.com
-23.222.198.94                  store.steampowered.com
-23.15.3.10                     cdn.akamai.steamstatic.com
-23.15.3.13                     cdn.akamai.steamstatic.com
-23.15.3.23                     cdn.store.steampowered.com
-23.15.3.25                     cdn.store.steampowered.com
-36.156.81.209                  store.st.dl.bscstorage.net
-36.156.81.195                  store.st.dl.bscstorage.net
+2.22.234.117                   cdn.steamcommunity.com
+2.22.234.119                   cdn.steamcommunity.com
+23.53.122.76                   media.steampowered.com
+23.53.122.73                   media.steampowered.com
+184.30.154.118                 store.steampowered.com
+23.44.175.44                   cdn.akamai.steamstatic.com
+23.44.175.37                   cdn.akamai.steamstatic.com
+2.22.234.120                   cdn.store.steampowered.com
+2.22.234.107                   cdn.store.steampowered.com
 36.156.81.198                  store.st.dl.bscstorage.net
 36.156.81.201                  store.st.dl.bscstorage.net
 36.156.81.207                  store.st.dl.bscstorage.net
@@ -32,16 +29,18 @@
 36.156.81.202                  store.st.dl.bscstorage.net
 36.156.81.205                  store.st.dl.bscstorage.net
 36.156.81.200                  store.st.dl.bscstorage.net
-184.31.66.9                    storefront.steampowered.com
+36.156.81.209                  store.st.dl.bscstorage.net
+36.156.81.195                  store.st.dl.bscstorage.net
+23.54.38.48                    storefront.steampowered.com
 # No resolution for store.st.dl.pinyuncloud.com store.st.dl.pinyuncloud.com
 # No resolution for media.st.dl.pinyuncloud.com media.st.dl.pinyuncloud.com
-23.15.3.69                     store.akamai.steamstatic.com
-23.15.3.73                     store.akamai.steamstatic.com
-104.97.85.183                  steamcommunity-a.akamaihd.net
-104.97.85.180                  steamcommunity-a.akamaihd.net
-23.15.3.76                     community.akamai.steamstatic.com
-23.15.3.78                     community.akamai.steamstatic.com
+2.22.234.120                   store.akamai.steamstatic.com
+2.22.234.107                   store.akamai.steamstatic.com
+2.22.234.119                   steamcommunity-a.akamaihd.net
+2.22.234.117                   steamcommunity-a.akamaihd.net
+23.44.175.45                   community.akamai.steamstatic.com
+23.44.175.47                   community.akamai.steamstatic.com
 
-# Last update at 2026-11-15 23:26:24 (Beijing Time)
+# Last update at 2026-11-16 04:53:27 (Beijing Time)
 # Hosts End 
 
