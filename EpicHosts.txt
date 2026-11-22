@@ -1,54 +1,54 @@
 # Hosts Start 
 104.19.230.21                  hcaptcha.com
 104.19.229.21                  hcaptcha.com
-52.201.76.227                  epicgames.com
 23.22.180.145                  epicgames.com
 34.233.85.237                  epicgames.com
-104.19.229.21                  js.hcaptcha.com
+52.201.76.227                  epicgames.com
 104.19.230.21                  js.hcaptcha.com
-104.19.229.21                  imgs.hcaptcha.com
+104.19.229.21                  js.hcaptcha.com
 104.19.230.21                  imgs.hcaptcha.com
+104.19.229.21                  imgs.hcaptcha.com
 104.18.3.64                    store.epicgames.com
 104.18.2.64                    store.epicgames.com
-162.247.243.30                 bam-cell.nr-data.net
 ::ffff:162.247.243.30          bam-cell.nr-data.net
-3.170.42.111                   cdn.unrealengine.com
+162.247.243.30                 bam-cell.nr-data.net
 3.170.42.100                   cdn.unrealengine.com
-3.170.42.98                    cdn.unrealengine.com
 3.170.42.85                    cdn.unrealengine.com
+3.170.42.98                    cdn.unrealengine.com
+3.170.42.111                   cdn.unrealengine.com
 162.247.243.39                 js-agent.newrelic.com
 2602:816:5001::39              js-agent.newrelic.com
-23.209.57.136                  cdn1.unrealengine.com
-23.209.57.136                  cdn2.unrealengine.com
-104.18.21.177                  docs.unrealengine.com
+23.222.201.130                 cdn1.unrealengine.com
+23.222.201.130                 cdn2.unrealengine.com
 104.18.20.177                  docs.unrealengine.com
-3.170.42.87                    download.epicgames.com
-3.170.42.119                   download.epicgames.com
-3.170.42.73                    download.epicgames.com
-3.170.42.69                    download.epicgames.com
-2600:9000:244d:d400:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:244d:400:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:244d:f600:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:244d:4a00:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:244d:e600:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:244d:5c00:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:244d:ba00:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:244d:3400:10:e3cf:3100:93a1 download.epicgames.com
-44.197.34.38                   tracking.epicgames.com
+104.18.21.177                  docs.unrealengine.com
+3.170.19.94                    download.epicgames.com
+3.170.19.23                    download.epicgames.com
+3.170.19.84                    download.epicgames.com
+3.170.19.36                    download.epicgames.com
+2600:9000:2269:6800:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:2269:7e00:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:2269:a000:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:2269:9800:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:2269:2200:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:2269:8e00:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:2269:4400:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:2269:2a00:10:e3cf:3100:93a1 download.epicgames.com
 34.197.41.118                  tracking.epicgames.com
+44.197.34.38                   tracking.epicgames.com
 100.51.140.32                  tracking.epicgames.com
-104.19.229.21                  newassets.hcaptcha.com
 104.19.230.21                  newassets.hcaptcha.com
+104.19.229.21                  newassets.hcaptcha.com
 # No resolution for download2.epicgames.com download2.epicgames.com
 # No resolution for download3.epicgames.com download3.epicgames.com
 # No resolution for download4.epicgames.com download4.epicgames.com
 52.85.193.55                   media-cdn.epicgames.com
 52.85.193.21                   media-cdn.epicgames.com
-52.85.193.117                  media-cdn.epicgames.com
 52.85.193.115                  media-cdn.epicgames.com
-34.197.37.250                  perf.store.on.epicgames.com
+52.85.193.117                  media-cdn.epicgames.com
 44.214.246.65                  perf.store.on.epicgames.com
 98.87.241.53                   perf.store.on.epicgames.com
+34.197.37.250                  perf.store.on.epicgames.com
 # No resolution for merchantpool1.epicgames.com merchantpool1.epicgames.com
 # No resolution for store-launcher.epicgames.com store-launcher.epicgames.com
 198.217.251.250                songbird.cardinalcommerce.com
@@ -56,45 +56,45 @@
 2606:4700::c6d9:fbfa           songbird.cardinalcommerce.com
 2606:4700::c6d9:fbfb           songbird.cardinalcommerce.com
 184.30.69.51                   store-content.ak.epicgames.com
-2600:1408:c400:f8f::3b63       store-content.ak.epicgames.com
 2600:1408:c400:f89::3b63       store-content.ak.epicgames.com
-104.18.14.62                   static-assets-prod.epicgames.com
+2600:1408:c400:f8f::3b63       store-content.ak.epicgames.com
 104.18.15.62                   static-assets-prod.epicgames.com
 104.18.14.62                   static-assets-prod.epicgames.com
 104.18.15.62                   static-assets-prod.epicgames.com
-23.54.127.77                   epicgames-download1.akamaized.net
-23.54.127.76                   epicgames-download1.akamaized.net
-2600:1408:c400:24::17da:d818   epicgames-download1.akamaized.net
-2600:1408:c400:24::17da:d822   epicgames-download1.akamaized.net
-2600:1408:c400:24::17da:d807   epicgames-download1.akamaized.net
-2600:1408:c400:24::17da:d819   epicgames-download1.akamaized.net
-184.30.69.51                   store-content-ipv4.ak.epicgames.com
+104.18.14.62                   static-assets-prod.epicgames.com
+23.218.216.138                 epicgames-download1.akamaized.net
+23.218.216.155                 epicgames-download1.akamaized.net
+2600:1408:c400:5::17c7:3729    epicgames-download1.akamaized.net
+2600:1408:c400:5::17c7:3737    epicgames-download1.akamaized.net
+2600:1408:c400:5::17c7:373f    epicgames-download1.akamaized.net
+2600:1408:c400:5::17c7:3727    epicgames-download1.akamaized.net
+23.50.79.85                    store-content-ipv4.ak.epicgames.com
 # No resolution for talon-website-prod.ak.epicgames.com talon-website-prod.ak.epicgames.com
-104.18.22.33                   talon-service-prod.ecosec.on.epicgames.com
 104.18.23.33                   talon-service-prod.ecosec.on.epicgames.com
-104.18.22.33                   talon-website-prod.ecosec.on.epicgames.com
+104.18.22.33                   talon-service-prod.ecosec.on.epicgames.com
 104.18.23.33                   talon-website-prod.ecosec.on.epicgames.com
+104.18.22.33                   talon-website-prod.ecosec.on.epicgames.com
 184.30.69.51                   store-site-backend-static.ak.epicgames.com
-2600:1408:c400:f89::3b63       store-site-backend-static.ak.epicgames.com
 2600:1408:c400:f8f::3b63       store-site-backend-static.ak.epicgames.com
-54.225.83.217                  account-public-service-prod03.ol.epicgames.com
-98.94.113.242                  account-public-service-prod03.ol.epicgames.com
-34.193.221.253                 account-public-service-prod03.ol.epicgames.com
-100.50.233.65                  account-public-service-prod03.ol.epicgames.com
+2600:1408:c400:f89::3b63       store-site-backend-static.ak.epicgames.com
+100.49.58.243                  account-public-service-prod03.ol.epicgames.com
+23.20.136.219                  account-public-service-prod03.ol.epicgames.com
+54.157.70.106                  account-public-service-prod03.ol.epicgames.com
 52.6.27.174                    account-public-service-prod03.ol.epicgames.com
-32.201.106.76                  account-public-service-prod03.ol.epicgames.com
-52.201.84.196                  account-public-service-prod03.ol.epicgames.com
-34.197.135.34                  account-public-service-prod03.ol.epicgames.com
-18.165.83.84                   epic-social-social-modules-prod.ol.epicgames.com
+100.50.233.65                  account-public-service-prod03.ol.epicgames.com
+98.94.113.242                  account-public-service-prod03.ol.epicgames.com
+3.231.5.2                      account-public-service-prod03.ol.epicgames.com
+52.2.111.33                    account-public-service-prod03.ol.epicgames.com
 18.165.83.38                   epic-social-social-modules-prod.ol.epicgames.com
-18.165.83.30                   epic-social-social-modules-prod.ol.epicgames.com
 18.165.83.85                   epic-social-social-modules-prod.ol.epicgames.com
+18.165.83.30                   epic-social-social-modules-prod.ol.epicgames.com
+18.165.83.84                   epic-social-social-modules-prod.ol.epicgames.com
+184.197.42.246                 eulatracking-public-service-prod06.ol.epicgames.com
 54.243.158.83                  eulatracking-public-service-prod06.ol.epicgames.com
 3.210.70.167                   eulatracking-public-service-prod06.ol.epicgames.com
-184.197.42.246                 eulatracking-public-service-prod06.ol.epicgames.com
 # No resolution for assets-hcaptcha-proxy-service-prod.ak.epicgames.com assets-hcaptcha-proxy-service-prod.ak.epicgames.com
 43.159.0.230                   weighted-zh-eulatracking-public-service-prod06.ol.epicgames.com
 
-# Last update at 2026-11-22 05:28:15 (Beijing Time)
+# Last update at 2026-11-22 13:28:47 (Beijing Time)
 # Hosts End 
 
